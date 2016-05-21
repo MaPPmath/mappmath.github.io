@@ -59,3 +59,12 @@ Successful players in MaPP events will...
 
 More information may be found at:
 <http://www.corestandards.org/Math/Practice/>
+
+# Our Staff
+
+* Dr. Steven Clontz  
+  Director of Mathematics, Puzzles, and Games
+* Dr. Braxton Carrigan
+  Associate Director of Communications
+* Dr. PJ Couch
+  Associate Director of Development
