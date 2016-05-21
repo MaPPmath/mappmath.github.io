@@ -63,8 +63,11 @@ More information may be found at:
 # Our Staff
 
 * Dr. Steven Clontz  
-  Director of Mathematics, Puzzles, and Games
+  Director of Mathematics, Puzzles, and Games  
+  The University of South Alabama
 * Dr. Braxton Carrigan  
-  Associate Director of Communications
+  Associate Director of Communications  
+  Southern Connecticut State University
 * Dr. PJ Couch  
-  Associate Director of Development
+  Associate Director of Development  
+  Lamar University
