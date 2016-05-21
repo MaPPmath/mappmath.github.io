@@ -64,7 +64,7 @@ More information may be found at:
 
 * Dr. Steven Clontz  
   Director of Mathematics, Puzzles, and Games
-* Dr. Braxton Carrigan
+* Dr. Braxton Carrigan  
   Associate Director of Communications
-* Dr. PJ Couch
+* Dr. PJ Couch  
   Associate Director of Development
