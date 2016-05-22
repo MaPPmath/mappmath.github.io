@@ -7,11 +7,6 @@ permalink: /about/
 show-navbar: true
 ---
 
-<p class="text-center">
-  <a href="/about/people">People</a> |
-  <a href="/events/">Events</a>
-</p>
-
 # Teaching students through mathematical puzzles
 
 The mission of Mathematical Puzzle Programs (MaPP) is to organize quality events
@@ -65,7 +60,12 @@ Successful players in MaPP events will...
 More information may be found at:
 <http://www.corestandards.org/Math/Practice/>
 
+# Our Programs
+
+More on our various mathematical puzzle experiences may be found on our
+[Programs page](/programs/).
+
 # Our Volunteers
 
-More on our volunteers is available at
-[/about/people/](/about/people/).
+Details on the people who make this possible are available at our
+[Volunteers page](/about/people/).
