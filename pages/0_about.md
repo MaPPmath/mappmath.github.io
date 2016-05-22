@@ -7,6 +7,11 @@ permalink: /about/
 show-navbar: true
 ---
 
+<p class="text-center">
+  <a href="/about/people">People</a> |
+  <a href="/events/">Events</a>
+</p>
+
 # Teaching students through mathematical puzzles
 
 The mission of Mathematical Puzzle Programs (MaPP) is to organize quality events
@@ -60,14 +65,7 @@ Successful players in MaPP events will...
 More information may be found at:
 <http://www.corestandards.org/Math/Practice/>
 
-# Our Staff
+# Our Volunteers
 
-* Dr. Steven Clontz
-    * Director of Mathematics, Puzzles, and Games  
-    * The University of South Alabama
-* Dr. Braxton Carrigan
-    * Associate Director of Communications  
-    * Southern Connecticut State University
-* Dr. PJ Couch
-    * Associate Director of Development  
-    * Lamar University
+More on our volunteers is available at
+[/about/people/](/about/people/).
