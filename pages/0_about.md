@@ -7,6 +7,8 @@ permalink: /about/
 show-navbar: true
 ---
 
+![MaPP logo](/img/logo/banner_color.svg)
+
 # Teaching students through mathematical puzzles
 
 The mission of Mathematical Puzzle Programs (MaPP) is to organize quality events
