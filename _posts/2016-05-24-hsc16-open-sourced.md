@@ -2,7 +2,7 @@
 layout:     post
 title:      "HSC16 Puzzle Booklet"
 subtitle:   "Available for download."
-author:     "Steven Clontz"
+author:     "Dr. Steven Clontz"
 date:       2016-05-20 19:54:00
 header-img: "img/home-bg.jpg"
 ---

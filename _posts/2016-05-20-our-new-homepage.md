@@ -2,7 +2,7 @@
 layout:     post
 title:      "Our New Homepage"
 subtitle:   "Thanks for checking us out!"
-author:     "Steven Clontz"
+author:     "Dr. Steven Clontz"
 date:       2016-05-20 19:54:00
 header-img: "img/home-bg.jpg"
 ---
