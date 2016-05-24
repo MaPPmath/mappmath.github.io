@@ -15,6 +15,8 @@ thank the following individuals who make this all possible.
 
 ## Director of Mathematics, Puzzles, and Games
 
+![Clontz](http://www.gravatar.com/avatar/2f9ecf8e56d48c8fd7adff7a8b5400bb?size=200)
+
 **Dr. Steven Clontz**, Assistant Professor of Mathematics at the University
 of South Alabama, has been an active puzzle competitor and designer since 2009.
 In addition to Dr. Clontz's work with MaPP, his credits include designing
@@ -26,10 +28,10 @@ puzzle events for middle and high school students across the country.
 
 You can follow Dr. Clontz on Twitter
 [@StevenXClontz](http://twitter.com/StevenXClontz) or visit his website
-at [clontz.org](http://clontz.org). His email is
-<steven.clontz@gmail.com>.
+at [clontz.org](http://clontz.org). He may be emailed at
+<director@mappmath.org>.
 
-## Associate Director of Communications  
+## Associate Director of Communications and Recruitment  
 
 **Dr. Braxton Carrigan**, Assistant Professor of Mathematics at
 Southern Connecticut State University, established the world's first
@@ -39,9 +41,11 @@ at Auburn University in 2012. Dr. Carrigan has traveled
 the world promoting mathematics through puzzles, including serving several
 mathematics camps in Australia. As communications director, Dr. Carrigan
 coordinates our local volunteers across the country and represents our
-work on this website and our newsletters.
+work on this website and our newsletters. Dr. Carrigan also leads our
+recruitment effort to encourage new campuses to host our mathematical
+puzzle experiences.
 
-You can contact Dr. Carrigan by email at <carriganb1@southernct.edu>.
+You can contact Dr. Carrigan by email at <communications@mappmath.org>.
 
 ## Associate Director of Development
 
@@ -53,7 +57,7 @@ director, Dr. Couch supports campuses new to sponsoring MaPP events, helping
 them appropriate resources and work with their stakeholders to bring
 mathematical puzzle experiences to young people in their communities.
 
-You can contact Dr. Couch by email at <pj.couch@lamar.edu>.
+You can contact Dr. Couch by email at <development@mappmath.org>.
 
 # Our Founders
 
