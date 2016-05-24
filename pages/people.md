@@ -6,12 +6,10 @@ header-img: "img/home-bg.jpg"
 permalink: /about/people/
 ---
 
-# Our Volunteers
-
 Mathematical Puzzle Programs is a volunteer effort. We'd like to
 thank the following individuals who make this all possible.
 
-# National Directors
+# National Volunteers
 
 ## Director of Mathematics, Puzzles, and Games
 
@@ -63,14 +61,14 @@ You can contact Dr. Couch by email at <development@mappmath.org>.
 
 Clontz, Carrigan, and Couch founded MaPP in summer 2015 with the help of
 their colleague **Dr. James Hammer** of Cedar Crest College. Dr. Hammer
-continues serving MaPP as Cedar Crest's local MaPP organizer.
+continues serving MaPP as Cedar Crest's campus organizer.
 
 # Other Volunteers
 
 There's no way MaPP could function with just the work of our national
 volunteers. We rely on our enthusiastic network of event-specific volunteers
-who create our games and puzzles, and local MaPP organizers who coordinate our
-events on campuses across the country.
+who create our games and puzzles, and campus organizers who coordinate our
+events across the country.
 
 To learn more about these people, visit our [Programs](/programs/) and
 [Campuses](/campuses/) pages.
