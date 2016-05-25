@@ -25,7 +25,7 @@ layout: default
       <li><a href="/">{{site.short-title}}</a> </li>
       {% assign crumbs = page.url | split: '/' %}
       {% for crumb in crumbs offset:1 %}
-        <li>
+        <li {% if forloop.last %}class="active"{% endif %}>
           {% unless forloop.last %}
             <a href="/{% for crumb in crumbs offset:1 limit:forloop.index %}{{crumb}}/{% endfor %}">
               {{ crumb | capitalize }}
