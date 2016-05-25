@@ -10,10 +10,13 @@ Our **High School Challenge** is an annual puzzlehunt designed to challenge
 9th through 12th grade students' mathematical problem solving abilities.
 Students should be familiar with basic algebra and geometry, but otherwise
 do not require any formal coursework in mathematics.
-Our [hosts](/campuses/) across the country run this competition between
-September and April each school year.
+These events are ran at our [partner campuses](/campuses/) across the country
+between September and April each school year.
 
-## Annual Competitions
+## Upcoming Competitions
 
-* [HSC17 to be announced](#)
-* [HSC16](/programs/hsc/2016/)
+* [HSC17](/programs/hsc/17/)
+
+## Past Competitions
+
+* [HSC16](/programs/hsc/16/)
