@@ -12,9 +12,11 @@ permalink: /programs/hsc/17/
 ## Game Designer
 
 **Dr. Zachary Sarver** is an instructor of mathematics at Auburn University
-and a published researcher in modern algebra.
+and a published researcher in matrix theory.
 His credits include several puzzle events in the southeast United States,
 including co-designing the *Auburn Puzzle Party 5* puzzlehunt in Fall 2012.
+He can be reached by email at <zachary.sarver@gmail.com> and his website is,
+appropriately, <http://zacksarver.rocks/>.
 
 ## Call for Puzzle Designers
 
