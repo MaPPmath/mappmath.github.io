@@ -11,15 +11,18 @@ show-navbar: true
 
 Modeled after puzzle competitions like the **MIT Mystery Hunt** and
 **The Game**, our High School Challenge pits young adults against devious
-mathematical puzzles and games. [Learn More](/programs/hsc/)
+mathematical puzzles and games.
+
+[Learn more about HSC.](/programs/hsc/)
 
 # Middle School Challenge
 
 A version of our High School Challenge for middle school and junior high
 students, produced in partnership with the A.M.P.'d Middle School Challenge.
-[Learn More](/programs/msc/)
 
-# Other Events
+[Learn more about MSC.](/programs/msc/)
+
+# Other Programs
 
 MaPP traces its roots back to the
 **A.M.P.'d (Auburn Mathematical Puzzle) Challenge**, a puzzlehunt competition
