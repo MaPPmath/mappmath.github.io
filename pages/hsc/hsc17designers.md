@@ -105,3 +105,6 @@ designers thanking you for your volunteer efforts.
   under <https://creativecommons.org/licenses/by/4.0/>.
 * We will credit your contributions on our website and in all HSC17
   materials, and give you a small token of our appreciation.
+
+Sounds like something you'd be interested in? Email Dr. Steven Clontz
+at <director@mappmath.org> to get in touch!
