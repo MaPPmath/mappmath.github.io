@@ -10,23 +10,23 @@ permalink: /programs/hsc/16/
 the following [partner campuses](/campuses/) in spring 2016:
 
 * The University of North Carolina at Charlotte
-    * Organizer: Dr. Steven Clontz
-    * First Place at UNCC & Puzzle 1 Fastest Solve in Nation:
-      **Harding University High School**
-    * Puzzle 3 Fastest Solve in Nation:
-      **Hunter Huss High School**
+    * Dr. Steven Clontz, Organizer
+    * **Harding University High School**:
+      First Place at UNCC & Puzzle 1 Fastest Solve in Nation:
+    * **Hunter Huss High School**:
+      Puzzle 3 Fastest Solve in Nation
 * Southern Connecticut State University
-    * Organizer: Dr. Braxton Carrigan
-    * First Place at SCSU:
-      **Engineering and Science University Magnet School ("Team De-Cipher")**
-    * Puzzle 2 Fastest Solve in Nation:
-      **North Haven High School ("Spicey Squad")**
+    * Dr. Braxton Carrigan, Organizer
+    * **Engineering and Science University Magnet School ("Team De-Cipher")**:
+      First Place at SCSU
+    * **North Haven High School ("Spicey Squad")**:
+      Puzzle 2 Fastest Solve in Nation
 * Lamar University
-    * Organizer: Dr. PJ Couch
-    * First Place at Lamar:
-      **Vidor High School Team 1**
-    * Puzzle 5 Fastest Solve in Nation:
-      **Ozen High School Team 1**
+    * Dr. PJ Couch, Organizer
+    * **Vidor High School Team 1**:
+      First Place at Lamar
+    * **Ozen High School Team 1**:
+      Puzzle 5 Fastest Solve in Nation
 
 Materials from this event have been open-sourced on Github at the following
 link:
