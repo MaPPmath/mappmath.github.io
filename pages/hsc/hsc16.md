@@ -12,7 +12,7 @@ the following [partner campuses](/campuses/) in spring 2016:
 * The University of North Carolina at Charlotte
     * Dr. Steven Clontz, Organizer
     * **Harding University High School**:
-      First Place at UNCC & Puzzle 1 Fastest Solve in Nation:
+      First Place at UNCC & Puzzle 1 Fastest Solve in Nation
     * **Hunter Huss High School**:
       Puzzle 3 Fastest Solve in Nation
 * Southern Connecticut State University
