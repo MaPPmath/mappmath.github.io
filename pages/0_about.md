@@ -5,6 +5,7 @@ description: "Why we do what we do."
 header-img: "img/home-bg.jpg"
 permalink: /about/
 show-navbar: true
+show-newsletter-below: true
 ---
 
 ![MaPP logo](/img/logo/banner_color.svg)
