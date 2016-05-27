@@ -21,6 +21,8 @@ the following [partner campuses](/campuses/) in spring 2016:
       First Place at SCSU
     * **North Haven High School ("Spicey Squad")**:
       Puzzle 2 Fastest Solve in Nation
+    * **North Haven High School ("The Recombinants")**:
+      Puzzle 4 Fastest Solve in Nation
 * Lamar University
     * Dr. PJ Couch, Organizer
     * **Vidor High School Team 1**:
