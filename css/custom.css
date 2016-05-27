@@ -5,3 +5,7 @@ section.map.embed-container {
   margin-top: 3em;
   height: 75%;
 }
+
+li {
+  margin-bottom: 0.5em;
+}
