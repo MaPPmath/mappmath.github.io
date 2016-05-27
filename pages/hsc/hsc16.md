@@ -25,14 +25,23 @@ We'd like to thank the following people who made this possible:
 
 ### Puzzle Designers
 
-* Jeffrey Ford - Minnesota State University, Mankato
-* Kelly Bragan Guest - Tuskegee University
-* Charles McPillan - Greenville, SC
-* Jonah Ostroff - University of Washington
-* Amy Steinkampf - New Orleans, LA
+* Puzzle 1 and EXTRA Puzzle 1 - "Shipped with Abandon"
+    * Kelly Bragan Guest - Tuskegee University
+* Puzzle 2 and EXTRA Puzzle 2 - "Domineering"
+    * Jeffrey Ford - Minnesota State University, Mankato
+* Puzzle 3 - "A Series of Improbable Events"
+    * Jonah Ostroff - University of Washington
+* Puzzle 4 - "Simple City"
+    * Amy Steinkampf - New Orleans, LA
+* Puzzle 5 and EXTRA Puzzle 5 - "Nothin' But Nets"
+    * Charles McPillan - Greenville, SC
+
+Gameplay and all other puzzles were designed by the
+[MaPP Directors](/about/people/).
 
 ### Special Thanks
 
 * John Asplund
 * Eric Harshbarger
 * Robert Ford
+* Our playtesters at various [campuses](/campuses/) across the country!
