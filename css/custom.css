@@ -6,6 +6,6 @@ section.map.embed-container {
   height: 75%;
 }
 
-li {
+.container li {
   margin-bottom: 0.5em;
 }
