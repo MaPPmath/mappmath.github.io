@@ -26,3 +26,13 @@ designers for HSC17! Please read our
 [Call for Puzzle Designers][call] page for more information.
 
 [call]: /programs/hsc/17/designers
+
+### Puzzle Designers
+
+**Dr. PJ Couch** is an assistant professor of mathematics at Lamar University
+and is one of the [founders/directors of Mathematical Puzzle Programs][people].
+Dr. Couch also established the Lamar Mathematical Puzzlehunt Challenge
+in 2015. His published research includes work in the fields of graph theory
+and design theory. His website is <https://sites.google.com/site/pjcouchlamar/>.
+
+[people]: /about/people/
