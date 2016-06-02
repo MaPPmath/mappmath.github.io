@@ -66,6 +66,21 @@ We will design a simple puzzle which decodes to a message
 based upon the theme of your puzzle. If you'd also like to
 design this puzzle yourself, let us know!
 
+## Game Overview
+
+So you have some context for the overall game, here is the structure
+for High School Challenge '16 (HSC17 may have some slight changes
+which we don't want to spoil publicly). You can also review the
+entire [puzzle booklet][booklet] for yourself if you'd like.
+
+* Teams
+    * 6-8 high school students
+* Puzzles
+    * Opening Puzzle (run-around challenge, 30 min)
+    * 5 Main Puzzles (solve to short phrases, ~3 hrs total available)
+        * 5 Extra Puzzles (optimization-based, unlocked from Main Puzzles)
+        * Metapuzzle (hidden cryptic puzzle, based on Main Puzzle solutions)
+
 ## Licensing and Credits
 
 MaPP believes in copyleft licensing of our materials. After the
