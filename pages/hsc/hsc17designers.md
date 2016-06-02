@@ -69,16 +69,19 @@ design this puzzle yourself, let us know!
 ## Game Overview
 
 So you have some context for the overall game, here is the structure
-for High School Challenge '16 (HSC17 may have some slight changes
-which we don't want to spoil publicly). You can also review the
-entire [puzzle booklet][booklet] for yourself if you'd like.
+for High School Challenge '16. (Note that HSC17 may have some slight changes
+which we wouldn't want to spoil publicly.) You can also review the
+entire [HSC16 puzzle booklet][booklet] for yourself if you'd like.
+The bold text designates where we'd use the
+optimization puzzles we're primarily soliciting for, but we welcome
+contributions of all kinds!
 
 * Teams
     * 6-8 high school students
 * Puzzles
     * Opening Puzzle (run-around challenge, 30 min)
     * 5 Main Puzzles (solve to short phrases, ~3 hrs total available)
-        * 5 Extra Puzzles (optimization-based, unlocked from Main Puzzles)
+        * **5 Extra Puzzles (optimization-based, unlocked from Main Puzzles)**
         * Metapuzzle (hidden cryptic puzzle, based on Main Puzzle solutions)
 
 ## Licensing and Credits
