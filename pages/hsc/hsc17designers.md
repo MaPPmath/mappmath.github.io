@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "High School Challenge '17"
-description: "Call for Puzzle Designers"
+title: "Call for HSC17 Puzzle Designers"
+description: "Promote mathematics with your puzzles"
 header-img: "img/home-bg.jpg"
 permalink: /programs/hsc/17/designers/
 ---
