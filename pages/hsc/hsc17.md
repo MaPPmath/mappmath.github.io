@@ -17,7 +17,8 @@ permalink: /programs/hsc/17/
 education, profession, and passion have all converged
 through the years to the fields of mathematics, computer programming,
 and puzzle design. Eric designs annual puzzlehunts in the east Alabama
-area, and has professionally designed puzzles and games for companies and events
+area, and has professionally designed numerous
+puzzles and games for companies and events
 across the United States. He has also spent a significant number of years
 making a living as a toy brick sculptor and mosaicist. He lives in
 Auburn, Alabama.
