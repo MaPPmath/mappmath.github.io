@@ -41,7 +41,7 @@ upcoming *Auburn Puzzle Party 12* puzzlehunt for Fall 2016.
 
 **Dr. PJ Couch** [[www][couch www]]
 is Assistant Professor of Mathematics at Lamar University
-and is one of the [founders/directors of Mathematical Puzzle Programs][people].
+and is one of the [founders][people] of Mathematical Puzzle Programs.
 Dr. Couch also established the Lamar Mathematical Puzzlehunt Challenge
 in 2015, from which MaPP traces its roots. His published research includes
 work in the fields of graph theory
