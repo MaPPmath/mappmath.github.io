@@ -9,6 +9,21 @@ permalink: /programs/hsc/17/
 **HSC17** will be our second mathematical puzzlehunt, to be run during the
 2016-17 school year at our [partner campuses](/campuses/) across the country.
 
+# Featured Puzzle Designer
+
+![Eric photo](http://www.ericharshbarger.org/images/ech2.jpg)
+
+**Eric Harshbarger**'s [[www][harshbarger www]]
+education, profession, and passion have all converged
+through the years to the fields of mathematics, computer programming,
+and puzzle design. Eric designs annual puzzlehunts in the east Alabama
+area, and has professionally designed puzzles and games for companies and events
+across the United States. He has also spent a significant number of years
+making a living as a toy brick sculptor and mosaicist. He lives in
+Auburn, Alabama.
+
+[harshbarger www]: http://www.ericharshbarger.com
+
 ## Game Designer
 
 **Dr. Zachary Sarver** [[www][sarver www]]
@@ -21,16 +36,7 @@ upcoming *Auburn Puzzle Party 12* puzzlehunt for Fall 2016.
 
 [sarver www]: http://zacksarver.rocks
 
-## Call for Puzzle Designers
-
-Are you interested in supporting our mission of promoting mathematics
-through fun puzzlehunt competitions? We are currently recruiting puzzle
-designers for HSC17! Please read our
-[Call for Puzzle Designers][call] page for more information.
-
-[call]: /programs/hsc/17/designers
-
-### Puzzle Designers
+## Puzzle Designers
 
 **Dr. PJ Couch** [[www][couch www]]
 is Assistant Professor of Mathematics at Lamar University
@@ -41,6 +47,7 @@ work in the fields of graph theory
 and design theory.
 
 [couch www]: https://sites.google.com/site/pjcouchlamar/
+[people]: /about/people/
 
 **Dr. Harold Reiter** [[www][reiter www]] is Professor of Mathematics
 at UNC Charlotte, and
@@ -54,4 +61,12 @@ math.
 
 [reiter www]: http://math2.uncc.edu/~hbreiter/
 
-[people]: /about/people/
+
+# Call for Puzzle Designers
+
+Are you interested in supporting our mission of promoting mathematics
+through fun puzzlehunt competitions? We are currently recruiting puzzle
+designers for HSC17! Please read our
+[Call for Puzzle Designers][call] page for more information.
+
+[call]: /programs/hsc/17/designers
