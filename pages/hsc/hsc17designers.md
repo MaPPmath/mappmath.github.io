@@ -21,7 +21,7 @@ designers.
 HSC17 will run at multiple college campuses across the country
 throughout the 2016-17 school year (September to April).
 As such, we need commitments from our designers by
-**Friday, 2016 June 17** and a playtest-ready version submitted
+**Friday, 2016 June 24** and a playtest-ready version submitted
 by **Friday, 2017 July 15**. Materials should be kept secret
 until the final event runs in April 2017, after which you
 are welcome to host your contribution on your own site or use
@@ -110,7 +110,7 @@ designers thanking you for your volunteer efforts.
   appropriate for 9-12th grade students. (We are open to
   other contributions as well!)
 * Commit to designing a puzzle by submitting your puzzle concept by
-  **Friday, 2016 June 17**. We will schedule a Google Hangout
+  **Friday, 2016 June 24**. We will schedule a Google Hangout
   or phone call to discuss details before committing.
 * Submit a playtest-ready version by **Friday, 2016 July 15**.
 * Contributed materials must be kept secret until the last High School
