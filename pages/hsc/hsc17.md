@@ -50,6 +50,12 @@ and design theory.
 [couch www]: https://sites.google.com/site/pjcouchlamar/
 [people]: /about/people/
 
+**Christopher Night** studied astrophysics and mathematics at Villanova
+University and Harvard University. He is now a programmer working for
+Google on flight search. He once designed a puzzle that appeared in a Ted
+talk by Randall Munroe, the author of XKCD. His favorite mathematicians are
+Martin Gardner and Vi Hart.
+
 **Dr. Harold Reiter** [[www][reiter www]] is Professor of Mathematics
 at UNC Charlotte, and
 has taught mathematics for 52 years. Besides teaching at the university level
