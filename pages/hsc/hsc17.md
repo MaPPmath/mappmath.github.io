@@ -21,7 +21,7 @@ area, and has professionally designed numerous
 puzzles and games for companies and events
 across the United States. He has also spent a significant number of years
 making a living as a toy brick sculptor and mosaicist. He lives in
-Auburn, Alabama.
+Auburn, AL.
 
 [harshbarger www]: http://www.ericharshbarger.com
 
@@ -54,7 +54,7 @@ and design theory.
 University and Harvard University, and now works for Google as a software developer
 on their flight search service. He once designed a puzzle that appeared in a
 Ted talk by Randall Munroe, the author of [xkcd][xkcd]. Christopher's favorite
-mathematicians are Martin Gardner and Vi Hart.
+mathematicians are Martin Gardner and Vi Hart. He currently lives in Boston, MA.
 
 [xkcd]: http://www.xkcd.com/
 
