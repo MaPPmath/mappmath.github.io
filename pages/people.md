@@ -31,6 +31,8 @@ at [clontz.org](http://clontz.org). He may be emailed at
 
 ## Associate Director of Communications and Recruitment  
 
+![Carrigan](/img/braxton-carrigan.jpg)
+
 **Dr. Braxton Carrigan**, Assistant Professor of Mathematics at
 Southern Connecticut State University, established the world's first
 mathematical puzzlehunt competition, the
