@@ -9,6 +9,16 @@ permalink: /programs/hsc/17/
 **HSC17** will be our second mathematical puzzlehunt, to be run during the
 2016-17 school year at our [partner campuses](/campuses/) across the country.
 
+# Information for Schools
+
+**HSC17** is still in the planning stages, but we'll be announcing participating
+[campuses](/campuses/) in the coming weeks. Schools may register for a local
+HSC event through that host campus's webpage.
+
+If you're a college interesting in hosting HSC17, please contact our
+Associate Director of Communications and Recruitment, Dr. Braxton Carrigan,
+at <communications@mappmath.org>.
+
 # Featured Puzzle Designer
 
 ![Eric photo](http://www.ericharshbarger.org/images/ech2.jpg)
