@@ -60,12 +60,13 @@ and design theory.
 [couch www]: https://sites.google.com/site/pjcouchlamar/
 [people]: /about/people/
 
-**Christopher Night** studied astrophysics and mathematics at Villanova
+**Christopher Night** [[www][night www]] studied astrophysics and mathematics at Villanova
 University and Harvard University, and now works for Google as a software developer
 on their flight search service. He once designed a puzzle that appeared in a
 Ted talk by Randall Munroe, the author of [xkcd][xkcd]. Christopher's favorite
-mathematicians are Martin Gardner and Vi Hart. He currently lives in Boston, MA.
+mathematicians are Martin Gardner and Vi Hart. He currently lives in Cambridge, MA.
 
+[night www]: http://christophernight.net/
 [xkcd]: http://www.xkcd.com/
 
 **Dr. Harold Reiter** [[www][reiter www]] is Professor of Mathematics
