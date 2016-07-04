@@ -25,3 +25,24 @@ We want to thank our volunteers across the country who have agreed to
 create mathematical puzzle content for us to license under these terms.
 Through your work, we hope to encourage more young adults to embrace
 mathematical thinking in their academics and careers!
+
+## How to Attribute
+
+There's no strict rule governing how you can satisfy the attribution
+requirement of CCBY4.0, but we encourage you to adapt the following
+example as a model (preserving the links):
+
+> This puzzle was originally featured as
+> *Puzzle 3: A Series of Improbable Events*, written by Jonah Ostroff and
+> featured in
+> [Mathematical Puzzle Programs](http://mappmath.org) High School Challenge '16.
+> It has been reused under the
+> [Creative Commons Attribution 4.0 International][cc4] license.
+
+## Examples
+
+Jeffrey Ford's *Domineering* puzzle from [High School Challenge '16][hsc16]
+was featured in [Epsilon Camp 2016][epsilon].
+
+[hsc16]: /programs/hsc/16/
+[epsilon]: http://epsiloncamp.org/
