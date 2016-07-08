@@ -63,6 +63,15 @@ Successful players in MaPP events will...
 More information may be found at:
 <http://www.corestandards.org/Math/Practice/>
 
+# MaPP and Research
+
+One of the goals of Mathematical Puzzle Programs is to connect middle and
+high school students with mathematical research. In the past, MaPP programs
+have included puzzles based upon topology, game theory, design theory, and
+many other fields. By introducing these topics in the context of a mathematical
+puzzle competition, students are motivated to grapple with the material
+in order to discover the hidden messages within.
+
 # Our Programs
 
 More on our various mathematical puzzle experiences may be found on our
