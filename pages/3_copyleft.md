@@ -41,8 +41,20 @@ example as a model (preserving the links):
 
 ## Examples
 
+### Epsilon Camp
+
 Jeffrey Ford's *Domineering* puzzle from [High School Challenge '16][hsc16]
 was featured in [Epsilon Camp 2016][epsilon].
 
 [hsc16]: /programs/hsc/16/
 [epsilon]: http://epsiloncamp.org/
+
+### MoMath Dimensions Puzzlehunt
+
+Several [HSC16][hsc16] and [LaMP2015][lamp] puzzles were repurposed for the
+National Museum of Mathematics' (MoMath) [Dimensions Puzzlehunt][dimensions]
+for Fall 2016, designed by MaPP Director [Dr. Steven Clontz.][people]
+
+[lamp]: https://github.com/MaPPmath/lamp-2015
+[dimensions]: http://dimensions.momath.org/
+[people]: /about/people
