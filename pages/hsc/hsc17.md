@@ -60,6 +60,16 @@ and design theory.
 [couch www]: https://sites.google.com/site/pjcouchlamar/
 [people]: /about/people/
 
+**Danielle Dobie** is a recent graduate from Minnesota State University,
+Mankato, where she received her Master’s degree in Mathematics.  
+She has always had a love for solving and creating puzzles.  The summer
+after graduating high school, she created a puzzle book for her
+mother that included 78 different puzzles.  
+When Ms. Dobie was a senior in college, she created a
+scavenger hunt leading her future husband, Bradley, all over Mankato and North
+Mankato.  Danielle’s continuous desire to create puzzles for others is what
+inspired her to become a puzzle designer for HSC17.
+
 **Christopher Night** [[www][night www]] studied astrophysics and mathematics at Villanova
 University and Harvard University, and now works for Google as a software developer
 on their flight search service. He once designed a puzzle that appeared in a
@@ -80,13 +90,3 @@ Bangalore, India. He is proud of his four adorable grandchildren, all good at
 math.
 
 [reiter www]: http://math2.uncc.edu/~hbreiter/
-
-
-# Call for Puzzle Designers
-
-Are you interested in supporting our mission of promoting mathematics
-through fun puzzlehunt competitions? We are currently recruiting puzzle
-designers for HSC17! Please read our
-[Call for Puzzle Designers][call] page for more information.
-
-[call]: /programs/hsc/17/designers
