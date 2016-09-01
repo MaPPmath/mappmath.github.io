@@ -57,7 +57,7 @@ in 2015, from which MaPP traces its roots. His published research includes
 work in the fields of graph theory
 and design theory.
 
-[couch www]: https://sites.google.com/site/pjcouchlamar/
+[couch www]: http://pjcou.ch/
 [people]: /about/people/
 
 **Danielle Dobie** is a recent graduate from Minnesota State University,
