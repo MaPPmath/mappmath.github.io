@@ -57,7 +57,8 @@ director, Dr. Couch supports campuses new to sponsoring MaPP events, helping
 them appropriate resources and work with their stakeholders to bring
 mathematical puzzle experiences to young people in their communities.
 
-You can contact Dr. Couch by email at <development@mappmath.org>.
+You can contact Dr. Couch by email at <development@mappmath.org> or
+visit his website at <http://pjcou.ch/>.
 
 # Our Founders
 
