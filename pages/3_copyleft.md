@@ -8,8 +8,9 @@ show-navbar: true
 ---
 
 We believe that we can do more as a community by working together. That's why
-Mathematical Puzzle Programs has a [copyleft][copyleft]
-culture with respect to our published works.
+Mathematical Puzzle Programs does not charge for host campuses to
+run its events, and that's why MaPP has a [copyleft][copyleft]
+culture with respect to its published works.
 
 [copyleft]: https://en.wikipedia.org/wiki/Copyleft
 
