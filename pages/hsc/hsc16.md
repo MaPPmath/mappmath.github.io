@@ -30,14 +30,9 @@ the following [partner campuses](/campuses/) in spring 2016:
     * **Ozen High School Team 1**:
       Puzzle 5 Fastest Solve in Nation
 
-Materials from this event have been open-sourced on Github at the following
-link:
-
-<https://github.com/MaPPmath/hsc16>
+### Puzzle Designers
 
 We'd like to thank the following people who made this possible:
-
-### Puzzle Designers
 
 * Puzzle 1 and EXTRA Puzzle 1 - "Shipped with Abandon"
     * **Kelly Bragan Guest** - Tuskegee University
@@ -59,3 +54,10 @@ Gameplay and all other puzzles were designed by the
 * Eric Harshbarger
 * Robert Ford
 * Our playtesters at various [campuses](/campuses/) across the country!
+
+### Game Book
+
+Materials from this event have been open-sourced on Github at the following
+link:
+
+<https://github.com/MaPPmath/hsc16>

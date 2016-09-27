@@ -10,7 +10,8 @@ show-navbar: true
 # High School Challenge
 
 Modeled after puzzle competitions like the **MIT Mystery Hunt** and
-**The Game**, our High School Challenge pits young adults against devious
+**DASH (Different Area Same Hunt)**,
+our High School Challenge pits young adults against fun and engaging
 mathematical puzzles and games.
 
 [Learn more about HSC.](/programs/hsc/)
@@ -37,4 +38,4 @@ The original pilot event for MaPP's High School Challenge was the
 **Lamar Mathematical Puzzlehunt Challenge (LaMP)**, organized by MaPP founder
 Dr. PJ Couch and designed by Dr. Clontz. It was held at Lamar University in
 Spring 2015, and remains the model for our High School Challenge events
-across the country.
+across the country. Learn more at our [LaMP 2015 page](/programs/hsc/lamp2015).

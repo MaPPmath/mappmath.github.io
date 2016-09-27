@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "High School Challenge '17"
-description: "For the 2016-17 school year."
+description: "At a campus near you during 2016-17"
 header-img: "img/home-bg.jpg"
 permalink: /programs/hsc/17/
 ---
@@ -9,15 +9,10 @@ permalink: /programs/hsc/17/
 **HSC17** will be our second mathematical puzzlehunt, to be run during the
 2016-17 school year at our [partner campuses](/campuses/) across the country.
 
-# Information for Schools
+# About the MaPP High School Challenge
 
-**HSC17** is still in the planning stages, but we'll be announcing participating
-[campuses](/campuses/) in the coming weeks. Schools may register for a local
-HSC event through that host campus's webpage.
-
-If you're a college interesting in hosting HSC17, please contact our
-Associate Director of Communications and Recruitment, Dr. Braxton Carrigan,
-at <communications@mappmath.org>.
+[Visit our HSC homepage](/programs/hsc/) for information on the MaPP
+High School Challenge format.
 
 # Featured Puzzle Designer
 
@@ -47,7 +42,7 @@ upcoming *Auburn Puzzle Party 12* puzzlehunt for Fall 2016.
 
 [sarver www]: http://zacksarver.rocks
 
-## Puzzle Designers
+## Other Puzzle Designers
 
 **Dr. PJ Couch** [[www][couch www]]
 is Assistant Professor of Mathematics at Lamar University

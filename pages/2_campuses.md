@@ -8,27 +8,48 @@ show-navbar: true
 show-map: true
 ---
 
-## Cedar Crest College
-
-* <https://sites.google.com/site/cedarcrestmappchallenge/>
-* Local MaPP Organizer: Dr. James Hammer
-
-## Dalton State College
-
-* <https://sites.google.com/a/mtu.edu/johnasplund/home/mapp>
-* Local MaPP Organizer: Dr. John Asplund
+<p class="text-center">
+  <a href="#locations-map">Interactive map of campuses</a>
+</p>
 
 ## Lamar University
 
-* <https://sites.google.com/site/pjcouchlamar/outreach/mapp>
-* Local MaPP Organizer: Dr. PJ Couch
+- Local Organizer
+    - Dr. PJ Couch
+    - <pjcouch@lamar.edu>
+- Middle School Challenge website
+    - <https://sites.google.com/site/pjcouchlamar/outreach/mappmsc>
+- High School Challenge website       
+    - <https://sites.google.com/site/pjcouchlamar/outreach/mapp>
 
 ## Southern Connecticut State University
 
-* <http://www.southernct.edu/academics/schools/arts/departments/mathematics/mapp.html>
-* Local MaPP Organizer: Dr. Braxton Carrigan
+- Local Organizer
+    - Dr. Braxton Carrigan
+    - <carriganb1@southernct.edu>
+- High School Challenge website
+    - <http://www.southernct.edu/academics/schools/arts/departments/mathematics/mapp.html>
 
-## UNC Charlotte
+## The University of North Carolina at Charlotte
 
-* <https://clas-pages.uncc.edu/mapp/>
-* Local MaPP Organizer: Dr. Harold Reiter
+- Local Organizer
+    - Dr. Harold Reiter
+    - <hbreiter@uncc.edu>
+- High School Challenge website
+    - <http://cstem.uncc.edu/stem-student-competitions/mathematical-puzzle-programs>
+
+## The University of South Alabama
+
+- Local Organizer
+    - Dr. Steven Clontz
+    - <sclontz@southalabama.edu>
+- Website
+    - TBA
+
+## Western Carolina University
+
+- Local Organizer
+    - Dr. Andrew Penland
+    - <adpenland@email.wcu.edu>
+- Website
+    - TBA

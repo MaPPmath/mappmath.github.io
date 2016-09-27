@@ -1,15 +1,15 @@
 ---
 layout: page
-title: "Copyleft"
-description: "Free as in freedom."
+title: "Free and Open-Source"
+description: "Bringing math puzzles to the masses"
 header-img: "img/home-bg.jpg"
-permalink: /copyleft/
+permalink: /open/
 show-navbar: true
 ---
 
 We believe that we can do more as a community by working together. That's why
 Mathematical Puzzle Programs does not charge for host campuses to
-run its events, and that's why MaPP has a [copyleft][copyleft]
+run its events, and that's why MaPP has a free and open-source
 culture with respect to its published works.
 
 [copyleft]: https://en.wikipedia.org/wiki/Copyleft
@@ -53,9 +53,9 @@ was featured in [Epsilon Camp 2016][epsilon].
 ### MoMath Dimensions Puzzlehunt
 
 Several [HSC16][hsc16] and [LaMP2015][lamp] puzzles were repurposed for the
-National Museum of Mathematics' (MoMath) [Dimensions Puzzlehunt][dimensions]
+National Museum of Mathematics' (MoMath) [Dimensions Puzzlehunt][puzzlehunt]
 for Fall 2016, designed by MaPP Director [Dr. Steven Clontz.][people]
 
 [lamp]: https://github.com/MaPPmath/lamp-2015
-[dimensions]: http://dimensions.momath.org/
+[puzzlehunt]: http://puzzlehunt.momath.org/
 [people]: /about/people
