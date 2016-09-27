@@ -80,4 +80,4 @@ More on our various mathematical puzzle experiences may be found on our
 # Our Volunteers
 
 Details on the people who make this possible are available at our
-[Volunteers page](/about/people/).
+[People page](/about/people/).
