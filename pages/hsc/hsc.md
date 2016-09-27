@@ -85,8 +85,11 @@ Students will have fun regardless of their previous experience with math
 puzzles. However, competitive teams may want to try their hand at solving
 problems from previous games. MaPP has open-sourced their game books below.
 
-- <https://github.com/MaPPmath/lamp-2015/raw/master/booklet.pdf>
-- <https://github.com/MaPPmath/hsc16/raw/master/booklet.pdf>
+- [Lamar Mathematical Puzzlehunt 2015][lamp2015]
+- [High School Challenge '16][hsc16]
+
+[lamp2015]: https://github.com/MaPPmath/lamp-2015/raw/master/booklet.pdf)
+[hsc16]: https://github.com/MaPPmath/hsc16/raw/master/booklet.pdf)
 
 ## What does it cost? What is the schedule?
 
