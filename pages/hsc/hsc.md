@@ -79,14 +79,19 @@ competition, but this team-based event can be enjoyed by most students
 regardless of background. Our hope is that this event will convince students who
 don't already love math to broaden their horizons a little.
 
+## What kinds of puzzles are these? How should we practice?
+
+Students will have fun regardless of their previous experience with math
+puzzles. However, competitive teams may want to try their hand at solving
+problems from previous games. MaPP has open-sourced their game books below.
+
+- <https://github.com/MaPPmath/lamp-2015/raw/master/booklet.pdf>
+- <https://github.com/MaPPmath/hsc16/raw/master/booklet.pdf>
+
 ## What does it cost? What is the schedule?
 
 Details related to registration fees and scheduling vary for each
 [campus host](/campuses/). Visit their websites for details.
-
-## What kinds of puzzles are these? How should we practice?
-
-Students will have fun regardless of their previous experience with math puzzles. That said, you should at least try your hand at the HSC16 teaser puzzle for the bonus it gives schools which can solve it. If you want more puzzles, Dr. Clontz has published a booklet of puzzles he wrote for the Lamar Mathematical Puzzle Challenge online here: https://github.com/MaPPmath/lamp-2015/raw/master/booklet.pdf
 
 ---
 
