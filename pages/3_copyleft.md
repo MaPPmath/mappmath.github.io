@@ -27,6 +27,13 @@ create mathematical puzzle content for us to license under these terms.
 Through your work, we hope to encourage more young adults to embrace
 mathematical thinking in their academics and careers!
 
+## Open Source Materials
+
+The source files to our game books and other materials may be found
+on our GitHub page: [@MaPPmath][github].
+
+[github]: http://github.com/MaPPmath
+
 ## How to Attribute
 
 There's no strict rule governing how you can satisfy the attribution
