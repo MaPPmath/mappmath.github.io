@@ -12,6 +12,14 @@ show-map: true
   <a href="#locations-map">Interactive map of campuses</a>
 </p>
 
+## Cedar Crest College
+
+- Local Organizer
+    - Dr. James Hammer
+    - <jmhammer@cedarcrest.edu>
+- Website
+    - TBA
+
 ## Lamar University
 
 - Local Organizer
