@@ -44,7 +44,7 @@ show-map: true
     - Dr. Braxton Carrigan
     - <carriganb1@southernct.edu>
 - High School Challenge website
-    - <http://www.southernct.edu/academics/schools/arts/departments/mathematics/mapp.html>
+    - <http://www.southernct.edu/go/mapp>
 
 ## The University of North Carolina at Charlotte
 
