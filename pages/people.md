@@ -2,7 +2,7 @@
 layout: page
 title: "People"
 description: "The volunteers who make this happen."
-header-img: "img/home-bg.jpg"
+header-img: "img/outdoors.jpg"
 permalink: /about/people/
 ---
 

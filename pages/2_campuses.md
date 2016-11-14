@@ -2,7 +2,7 @@
 layout: page
 title: "Campuses"
 description: "Our partners across the country."
-header-img: "img/home-bg.jpg"
+header-img: "img/bg/outdoors.jpg"
 permalink: /campuses/
 show-navbar: true
 show-map: true

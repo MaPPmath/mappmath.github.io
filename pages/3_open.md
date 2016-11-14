@@ -2,7 +2,7 @@
 layout: page
 title: "Free and Open-Source"
 description: "Bringing math puzzles to the masses"
-header-img: "img/home-bg.jpg"
+header-img: "img/bg/classroom.jpg"
 permalink: /open/
 show-navbar: true
 ---

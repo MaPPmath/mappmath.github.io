@@ -2,7 +2,7 @@
 layout: page
 title: "Programs"
 description: "Mathematical puzzle experiences for young adults."
-header-img: "img/home-bg.jpg"
+header-img: "img/bg/hidden.jpg"
 permalink: /programs/
 show-navbar: true
 ---

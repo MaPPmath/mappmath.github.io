@@ -2,7 +2,7 @@
 layout: page
 title: "Branding"
 description: "Facilitating communications for MaPP."
-header-img: "img/home-bg.jpg"
+header-img: "img/bg/silly-walk.jpg"
 permalink: /about/branding/
 ---
 

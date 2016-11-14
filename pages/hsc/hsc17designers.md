@@ -2,7 +2,7 @@
 layout: page
 title: "Call for HSC17 Puzzle Designers"
 description: "Promote mathematics with your puzzles"
-header-img: "img/home-bg.jpg"
+header-img: "img/bg/silly-walk.jpg"
 permalink: /programs/hsc/17/designers/
 ---
 

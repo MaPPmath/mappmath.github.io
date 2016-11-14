@@ -2,7 +2,7 @@
 layout: page
 title: "High School Challenge '17"
 description: "At a campus near you during 2016-17"
-header-img: "img/home-bg.jpg"
+header-img: "img/bg/silly-walk.jpg"
 permalink: /programs/hsc/17/
 ---
 

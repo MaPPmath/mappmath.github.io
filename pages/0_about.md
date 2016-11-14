@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "Why we do what we do."
-header-img: "img/home-bg.jpg"
+header-img: "img/bg/group.jpg"
 permalink: /about/
 show-navbar: true
 show-newsletter-below: true

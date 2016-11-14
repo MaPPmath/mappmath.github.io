@@ -2,7 +2,7 @@
 layout: page
 title: "High School Challenge"
 description: "Our featured puzzlehunt."
-header-img: "img/home-bg.jpg"
+header-img: "img/bg/silly-walk.jpg"
 permalink: /programs/hsc/
 ---
 

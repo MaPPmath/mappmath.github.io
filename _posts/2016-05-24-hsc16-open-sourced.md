@@ -4,7 +4,7 @@ title:      "HSC16 Puzzle Booklet"
 subtitle:   "Available for download."
 author:     "Dr. Steven Clontz"
 date:       2016-05-24 13:21:00
-header-img: "img/home-bg.jpg"
+header-img: "img/bg/silly-walk.jpg"
 ---
 
 Thanks to everyone who participated in our [High School Challenge '16][hsc16]
