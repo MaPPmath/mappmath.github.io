@@ -18,7 +18,7 @@ show-map: true
     - Dr. James Hammer
     - <jmhammer@cedarcrest.edu>
 - Website
-    - TBA
+    - <https://sites.google.com/site/cedarcrestmappchallenge/>
 
 ## Lamar University
 
