@@ -50,13 +50,14 @@ the apostrophe is not used, e.g. **HSC17**.
 The first usage of any of our programs should be preceded by
 **Mathematical Puzzle Programs** or **MaPP** to clearly associate
 the program with our organization, but avoid letter soup such as
-"MaPP HSC17" unless used in a hashtag. Here are some variations of
+"MaPP HSC17". Here are some variations of
 how to refer to High School Challenge '17 when run at
 the University of South Alabama.
 
+- Mathematical Puzzle Programs' High School Challenge '17
 - MaPP High School Challenge '17 at the University of South Alabama
 - HSC17, presented by South
-- #MaPPHSC17atSouth
+- #HSC17atSouth
 
 In particular, do **not** use variations of "MaPP Challenge", since
 this phrasing does not clearly designate either our high school or
