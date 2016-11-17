@@ -85,7 +85,7 @@ which solves to a codeword or phrase.
 
 ### Bonus Puzzles
 
-Each Main Puzzle unlocks a related Bonus Puzzle. Players will try
+Each Main Puzzle unlocks a related Bonus Puzzle. Players should try
 to optimize their solutions to beat out the competition!
 
 ### Metapuzzle
