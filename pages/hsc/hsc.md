@@ -67,6 +67,38 @@ Successful players will...
 - Look for and make use of structure.
 - Look for and express regularity in repeated reasoning.
 
+
+## What's the game's format?
+
+There are a few stages to the game:
+
+### Opening Puzzle
+
+The game begins with a mathematical challenge which will get
+players running around the host campus to solve their first puzzle
+of the day!
+
+### Main Puzzles
+
+Teams are given a packet of several mathematical puzzles, each of
+which solves to a codeword or phrase.
+
+### Bonus Puzzles
+
+Each Main Puzzle unlocks a related Bonus Puzzle. Players will try
+to optimize their solutions to beat out the competition!
+
+### Metapuzzle
+
+Players will collect pieces to the Metapuzzle throughout the game.
+Bring these clues together to solve the most challenging puzzle of
+them all!
+
+### And more?
+
+Hey, you never know.
+
+
 ## How do I choose teams?
 
 Five to eight high school students (9th through 12th grade) may form a team,
