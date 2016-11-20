@@ -13,6 +13,10 @@ do not require any formal coursework in mathematics.
 These events are ran at our [partner campuses](/campuses/) across the country
 between September and April each school year.
 
+**Think you have what it takes?** Give our
+[High School Challenge '17 Teaser Puzzle](/puzzles/hsc17-teaser.pdf)
+your best shot!
+
 ---
 
 # About the MaPP High School Challenge
@@ -27,29 +31,26 @@ previous mathematical background.
 MaPP’s mathematical content is pulled from various areas unrepresented in the
 usual secondary curriculum, such as design theory, game theory, or topology.
 
-## Puzzles
+### Puzzles
 
 MaPP shredded the multiple choice tests, and instead designed several
 mathematical puzzles which will give your students a taste of real mathematical
 problem solving, and prepare them for the types of questions asked in many job
 interviews.
 
-## Team-building
+### Team-building
 
 MaPP HSC is a team-based competition, emphasizing collaboration and
 communication over individual work, as teamwork is crucial for success in both
 industry and academia.
 
-## Fun!
+### Fun!
 
 These challenges won’t all be solved sitting down – players will find themselves running around UNC Charlotte’s campus to track down clues and uncover new puzzles to solve.
 
-## Teaser Puzzle
+---
 
-Contact your [host campus](/campuses/) to receive the HSC17 Teaser Puzzle
-which will give students a taste of what they'll be solving during our game.
-
-## Why should my school participate?
+# Why should my school participate?
 
 In addition to all of the above, MaPP has designed its events to fit the
 [Common Core State Standards for Mathematical Practice:][common core]
@@ -67,8 +68,9 @@ Successful players will...
 - Look for and make use of structure.
 - Look for and express regularity in repeated reasoning.
 
+---
 
-## What's the game's format?
+# What will players do at a High School Challenge?
 
 There are a few stages to the game:
 
@@ -98,8 +100,9 @@ them all!
 
 Hey, you never know.
 
+---
 
-## How do I choose teams?
+# Who can be on a team?
 
 Five to eight high school students (9th through 12th grade) may form a team,
 and teams with more students will be more competitive. Most campuses allow
@@ -111,11 +114,13 @@ competition, but this team-based event can be enjoyed by most students
 regardless of background. Our hope is that this event will convince students who
 don't already love math to broaden their horizons a little.
 
-## What kinds of puzzles are these? How should we practice?
+---
+
+# What kinds of puzzles are these? How should we practice?
 
 Students will have fun regardless of their previous experience with math
 puzzles. However, competitive teams may want to try their hand at solving
-problems from previous games. MaPP has open-sourced their game books below.
+problems from previous games:
 
 - [Lamar Mathematical Puzzlehunt 2015][lamp2015]
 - [High School Challenge '16][hsc16]
@@ -123,18 +128,20 @@ problems from previous games. MaPP has open-sourced their game books below.
 [lamp2015]: https://github.com/MaPPmath/lamp-2015/raw/master/booklet.pdf
 [hsc16]: https://github.com/MaPPmath/hsc16/raw/master/booklet.pdf
 
-## What does it cost? What is the schedule?
+---
+
+# What does it cost? What is the schedule?
 
 Details related to registration fees and scheduling vary for each
 [campus host](/campuses/). Visit their websites for details.
 
 ---
 
-# Upcoming Competitions
+## Upcoming Competitions
 
 * [HSC17](/programs/hsc/17/)
 
-# Past Competitions
+## Past Competitions
 
 * [HSC16](/programs/hsc/16/)
 * [LaMP 2015](/programs/hsc/lamp2015/)
