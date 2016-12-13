@@ -72,12 +72,7 @@ many other fields. By introducing these topics in the context of a mathematical
 puzzle competition, students are motivated to grapple with the material
 in order to discover the hidden messages within.
 
-# Our Programs
+# More Information
 
-More on our various mathematical puzzle experiences may be found on our
-[Programs page](/programs/).
-
-# Our Volunteers
-
-Details on the people who make this possible are available at our
-[People page](/about/people/).
+* [Programs/Events](/programs/)
+* [People](/about/people/)

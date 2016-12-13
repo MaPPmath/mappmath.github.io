@@ -2,34 +2,28 @@
 layout: page
 title: "People"
 description: "The volunteers who make this happen."
-header-img: "img/outdoors.jpg"
+header-img: "img/bg/outdoors.jpg"
 permalink: /about/people/
 ---
 
-Mathematical Puzzle Programs is a volunteer effort. We'd like to
-thank the following individuals who make this all possible.
-
-# National Volunteers
-
-## Director of Mathematics, Puzzles, and Games
+# Director of Mathematics, Puzzles, and Games
 
 ![Clontz](http://www.gravatar.com/avatar/2f9ecf8e56d48c8fd7adff7a8b5400bb?size=200)
 
 **Dr. Steven Clontz**, Assistant Professor of Mathematics at the University
 of South Alabama, has been an active puzzle competitor and designer since 2009.
-In addition to Dr. Clontz's work with MaPP, his credits include designing
-puzzles for the [National Museum of Mathematics](http://momath.org/),
-leadership training programs in the Bay Area,
-and several puzzlehunt competitions in the southeast United States.
+In addition to Dr. Clontz's work with MaPP, his credits include several
+general audience puzzle events across the United States.
 As director of MaPP, Dr. Clontz oversees the design of quality mathematical
-puzzle events for middle and high school students across the country.
+puzzle events for middle and high school students.
 
 You can follow Dr. Clontz on Twitter
 [@StevenXClontz](http://twitter.com/StevenXClontz) or visit his website
 at [clontz.org](http://clontz.org). He may be emailed at
 <director@mappmath.org>.
 
-## Associate Director of Communications and Recruitment  
+
+# Associate Director of Communications  
 
 ![Carrigan](/img/braxton-carrigan.jpg)
 
@@ -47,7 +41,8 @@ puzzle experiences.
 
 You can contact Dr. Carrigan by email at <communications@mappmath.org>.
 
-## Associate Director of Development
+
+# Associate Director of Development
 
 **Dr. PJ Couch**, Assistant Professor of Mathematics at Lamar University,
 established the Lamar Mathematical Puzzlehunt in 2015, which served as the
@@ -60,7 +55,14 @@ mathematical puzzle experiences to young people in their communities.
 You can contact Dr. Couch by email at <development@mappmath.org> or
 visit his website at <http://pjcou.ch/>.
 
-# Other Volunteers
+
+## Assistant Director of High School Challenge
+
+**Dr. Zachary Sarver** serves as the game designer for MaPP's annual
+[High School Challenge](/programs/hsc/) events.
+
+
+## Other Volunteers
 
 There's no way MaPP could function with just the work of our national
 volunteers. We rely on our enthusiastic network of program-specific volunteers
