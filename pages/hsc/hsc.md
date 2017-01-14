@@ -137,6 +137,17 @@ Details related to registration fees and scheduling vary for each
 
 ---
 
+# I'm interested in running High School Challenge at my campus! What should I do?
+
+More details on the structure of the game are available in our
+[game guide](https://docs.google.com/document/d/1prAdztOh8ooPtGz_dA6MxBjxKXPVGSPPqbLiGhdZ4FQ/edit?usp=sharing).
+To get connected with Mathematical Puzzle Programs, email us at
+<communications@mappmath.org> and we would love to
+talk with you about how to bring
+great programs like High School Challenge to your campus!
+
+---
+
 ## Upcoming Competitions
 
 * [HSC17](/programs/hsc/17/)
