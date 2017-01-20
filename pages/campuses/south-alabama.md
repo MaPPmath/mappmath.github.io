@@ -24,8 +24,10 @@ Teams of local high school students are encouraged to save the date
 for this unique and fun puzzle-solving experience! More details on the event
 will be added as it approaches.
 
-Contact [Prof. Steven Clontz][clontz] for more information.
+Contact [Prof. Steven Clontz][clontz] for more information. More information
+on the [High School Challenge][hsc] may be found on the [MaPP website][hsc].
 
 [south]: https://www.southalabama.edu/colleges/artsandsci/mathstat/
 [mapp]: /
 [clontz]: mailto:sclontz@southalabama.edu
+[hsc]: /programs/hsc/
