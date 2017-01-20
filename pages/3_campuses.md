@@ -46,7 +46,7 @@ show-map: true
 - High School Challenge website
     - <http://www.southernct.edu/go/mapp>
 
-## The University of North Carolina at Charlotte
+## University of North Carolina at Charlotte
 
 - Local Organizer
     - Dr. Harold Reiter
@@ -54,13 +54,13 @@ show-map: true
 - High School Challenge website
     - <http://cstem.uncc.edu/stem-student-competitions/mathematical-puzzle-programs>
 
-## The University of South Alabama
+## University of South Alabama
 
 - Local Organizer
     - Dr. Steven Clontz
     - <sclontz@southalabama.edu>
 - Website
-    - TBA
+    - <http://mappmath.org/campuses/south-alabama/>
 
 ## Western Carolina University
 
