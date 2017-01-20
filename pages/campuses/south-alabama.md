@@ -20,6 +20,8 @@ mathematics used in academia and industry!
 ## High School Challenge '17
 
 South will host the MaPP High School Challenge '17 on **Saturday, March 25**.
+Registration is currently scheduled to take place at **9:30am**, and the
+game should be finished by **2:00pm**.
 Teams of local high school students are encouraged to save the date
 for this unique and fun puzzle-solving experience! More details on the event
 will be added as it approaches.
