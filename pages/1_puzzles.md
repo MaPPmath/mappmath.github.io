@@ -17,6 +17,7 @@ such as the donut and coffee cup shown above.
 *Can you decode the number pairs by rewriting topologically-equivalent
 letters on each row of the grid in alphabetical order?*
 
+* [Printable Version](https://github.com/MaPPmath/example-puzzle/raw/master/mapp-example-puzzle.pdf)
 * [Solution](/img/topology-puzzle-solution.png)
 
 ---
