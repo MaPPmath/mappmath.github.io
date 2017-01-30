@@ -14,8 +14,9 @@ A friend passes you a note with the following strange image.
 She's recently been interested in **topology**, the study of structures
 which can be morphed from one to another without cutting or tearing,
 such as the donut and coffee cup shown above.
-*Can you decode the number pairs by rewriting topologically-equivalent
-letters on each row of the grid in alphabetical order?*
+**Can you decode the number pairs by finding five groups of
+topologically-equivalent letters?** Try writing each group in alphabetical
+order on the corresponding rows of the grid...
 
 * [Printable Version](https://github.com/MaPPmath/example-puzzle/raw/master/mapp-example-puzzle.pdf)
 * [Solution](/img/topology-puzzle-solution.png)
