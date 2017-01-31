@@ -56,7 +56,9 @@ considered final until this fee is paid, and space is limited on a
 first-come, first-served basis to the first eight teams who complete
 registration and payment.
 Please contact the [organizer][clontz] if you'd like your
-school to participate but lack funding to pay this fee.
+school to participate but lack funding to pay this fee. Please register
+before **March 1** so that food and supplies may be ordered in time for the
+event.
 
 Each team must be accompanied by a teacher or chaperone. The game begins
 with a puzzle that takes place throughout the east side of
