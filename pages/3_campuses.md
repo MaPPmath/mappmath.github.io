@@ -30,13 +30,13 @@ show-map: true
 - High School Challenge website       
     - <https://sites.google.com/site/pjcouchlamar/outreach/mapp>
 
-## Middle Georgia State University
+<!-- ## Middle Georgia State University
 
 - Local Organizer
     - Dr. Abby Noble
     - <abby.noble@mga.edu>
 - Website
-    - TBA
+    - TBA -->
 
 ## Southern Connecticut State University
 
@@ -48,9 +48,11 @@ show-map: true
 
 ## University of North Carolina at Charlotte
 
-- Local Organizer
+- Local Organizers
     - Dr. Harold Reiter
-    - <hbreiter@uncc.edu>
+        - <hbreiter@uncc.edu>
+    - Dave Petranick
+        - <david.petranick@cpcc.edu>
 - High School Challenge website
     - <http://cstem.uncc.edu/stem-student-competitions/mathematical-puzzle-programs>
 
