@@ -12,8 +12,6 @@ Mathematical Puzzle Programs does not charge for host campuses to
 run its events, and that's why MaPP has a free and open-source
 culture with respect to its published works.
 
-[copyleft]: https://en.wikipedia.org/wiki/Copyleft
-
 The contents of this site are licensed under
 [Creative Commons Attribution 4.0 International][cc4], and we release our
 puzzle materials under similar licenses. This means that you have the right
