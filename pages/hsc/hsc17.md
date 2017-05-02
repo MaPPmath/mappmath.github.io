@@ -6,8 +6,13 @@ header-img: "img/bg/silly-walk.jpg"
 permalink: /programs/hsc/17/
 ---
 
-**HSC17** will be our second mathematical puzzlehunt, to be run during the
+**HSC17** was run during the
 2016-17 school year at our [partner campuses](/campuses/) across the country.
+
+# Game Book
+
+All game materials have been published on our GitHub account at
+<https://github.com/mappmath/mappmath.github.io>.
 
 # About the MaPP High School Challenge
 
