@@ -36,7 +36,9 @@ are available at the following links.
 - [Lamar Mathematical Puzzlehunt 2015][lamp2015]
 - [High School Challenge '16][hsc16]
 - [Middle School Challenge '17][msc17]
+- [High School Challenge '17][hsc17]
 
 [lamp2015]: https://github.com/MaPPmath/lamp-2015/raw/master/booklet.pdf
 [hsc16]: https://github.com/MaPPmath/hsc16/raw/master/booklet.pdf
 [msc17]: https://github.com/MaPPmath/msc17/raw/master/msc17-game-book.pdf
+[hsc17]: https://github.com/MaPPmath/hsc17/raw/master/hsc17-game-book.pdf
