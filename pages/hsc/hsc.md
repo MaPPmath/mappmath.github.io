@@ -15,7 +15,7 @@ between September and April each school year.
 
 **Think you have what it takes?** Give our
 [High School Challenge '17 Teaser Puzzle](/puzzles/hsc17-teaser.pdf)
-your best shot!
+your best shot! More puzzles may also be found on [our Puzzles page](/puzzles/).
 
 ---
 
@@ -124,9 +124,11 @@ problems from previous games:
 
 - [Lamar Mathematical Puzzlehunt 2015][lamp2015]
 - [High School Challenge '16][hsc16]
+- [High School Challenge '17][hsc17]
 
 [lamp2015]: https://github.com/MaPPmath/lamp-2015/raw/master/booklet.pdf
 [hsc16]: https://github.com/MaPPmath/hsc16/raw/master/booklet.pdf
+[hsc17]: https://github.com/MaPPmath/hsc17/raw/master/hsc17-game-book.pdf
 
 ---
 
@@ -148,11 +150,8 @@ great programs like High School Challenge to your campus!
 
 ---
 
-## Upcoming Competitions
-
-* [HSC17](/programs/hsc/17/)
-
 ## Past Competitions
 
+* [HSC17](/programs/hsc/17/)
 * [HSC16](/programs/hsc/16/)
 * [LaMP 2015](/programs/hsc/lamp2015/)
