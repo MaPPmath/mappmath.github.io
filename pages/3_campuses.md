@@ -30,13 +30,13 @@ show-map: true
 - High School Challenge website       
     - <https://sites.google.com/site/pjcouchlamar/outreach/mapp>
 
-<!-- ## Middle Georgia State University
+## Middle Georgia State University
 
 - Local Organizer
     - Dr. Abby Noble
     - <abby.noble@mga.edu>
 - Website
-    - TBA -->
+    - TBA
 
 ## Southern Connecticut State University
 
