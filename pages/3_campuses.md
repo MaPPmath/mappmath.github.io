@@ -25,9 +25,7 @@ show-map: true
 - Local Organizer
     - Dr. PJ Couch
     - <pjcouch@lamar.edu>
-- Middle School Challenge website
-    - <https://sites.google.com/site/pjcouchlamar/outreach/mappmsc>
-- High School Challenge website       
+-Website
     - <https://sites.google.com/site/pjcouchlamar/outreach/mapp>
 
 ## Middle Georgia State University
@@ -38,12 +36,20 @@ show-map: true
 - Website
     - TBA
 
+## Saint Louis University
+
+- Local Organizer
+    - Dr. Bryan Clair
+    - <bryan.clair@slu.edu>
+- Website
+    - TBA
+
 ## Southern Connecticut State University
 
 - Local Organizer
     - Dr. Braxton Carrigan
     - <carriganb1@southernct.edu>
-- High School Challenge website
+- Website
     - <http://www.southernct.edu/go/mapp>
 
 ## University of North Carolina at Charlotte
@@ -63,6 +69,14 @@ show-map: true
     - <sclontz@southalabama.edu>
 - Website
     - <http://mappmath.org/campuses/south-alabama/>
+
+## University of St Francis
+
+- Local Organizer
+    - Dr. Megan Powell
+    - <MPowell@stfrancis.edu>
+- Website
+    - TBA
 
 ## Western Carolina University
 
