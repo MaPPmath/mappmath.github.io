@@ -2,11 +2,13 @@
 layout: page
 description: "Using puzzles to encourage students to pursue mathematics!"
 hide-breadcrumbs: true
+hide-subpages: true
 show-newsletter-above: true
 show-map: true
 header-img: "img/bg/silly-walk.jpg"
 ---
 
+{% if false %}
 {% for post in paginator.posts %}
   <div class="post-preview">
       <a href="{{ post.url | prepend: site.baseurl }}">
@@ -43,4 +45,5 @@ header-img: "img/bg/silly-walk.jpg"
     </li>
     {% endif %}
 </ul>
+{% endif %}
 {% endif %}

@@ -21,21 +21,33 @@ layout: default
 <div id="main" class="container">
 
   {% unless page.hide-breadcrumbs %}
-    <ul class="breadcrumb">
-      <li><a href="/">{{site.short-title}}</a> </li>
-      {% assign crumbs = page.url | split: '/' %}
-      {% for crumb in crumbs offset:1 %}
-        <li {% if forloop.last %}class="active"{% endif %}>
-          {% unless forloop.last %}
-            <a href="/{% for crumb in crumbs offset:1 limit:forloop.index %}{{crumb}}/{% endfor %}">
-              {{ crumb }}
-            </a>
-          {% else %}
-            {{ crumb }}
-          {% endunless %}
-        </li>
-      {% endfor %}
-    </ul>
+  <!-- https://gist.github.com/csgruenebe/8f7beef9858c1b8625d6 -->
+  <ol class="breadcrumb">
+    <li><a href="{{ site.baseurl }}/">Home</a></li>
+    {% capture page_url_without_index_html %}{{ page.url | remove: "/index.html" }}{% endcapture %}
+    {% assign splitted_url_parts = page_url_without_index_html | split: '/' %}
+    {% capture forLoopMaxInt %}{{ splitted_url_parts.size | minus:1 }}{% endcapture %}
+    {% for i in (1..forLoopMaxInt) %}
+        {% capture current_breadcrumb_url %}{{next_prepender}}/{{ splitted_url_parts[i] }}/index.html{% endcapture %}
+        {% capture current_breadcrumb_md_url %}{{next_prepender}}/{{ splitted_url_parts[i] }}/{% endcapture %}
+        {% capture next_prepender %}{{next_prepender}}/{{ splitted_url_parts[i] }}{% endcapture %}
+        {% for breadcrumb_page in site.pages %}
+            {% if current_breadcrumb_url == breadcrumb_page.url or current_breadcrumb_md_url == breadcrumb_page.url  %}
+            {% assign j = forLoopMaxInt | plus: 0 %}
+                <li {% if i == j %}class="active"{% endif %}>
+                    {% capture breadcrumb_page_page_url_without_index_html %}{{ breadcrumb_page.url | remove: "index.html" }}{% endcapture %}
+                    <a href="{{ site.baseurl }}{{breadcrumb_page_page_url_without_index_html}}">
+                      {% if breadcrumb_page.breadcrumb %}
+                        {{breadcrumb_page.breadcrumb}}
+                      {% else %}
+                        {{breadcrumb_page.title}}
+                      {% endif %}
+                    </a>
+                </li>
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+  </ol>
   {% endunless %}
 
   {% if page.show-newsletter-above %}
@@ -79,6 +91,38 @@ layout: default
 			{{ content }}
 		</div>
 	</div>
+
+  {% unless page.hide-subpages %}
+    {% capture subpages_list %}
+      {% capture page_path %}{{ page.url | remove: "/index.html" }}{% endcapture %}
+      {% for subpage in site.pages %}
+          {% capture subpage_path %}{{ subpage.url | remove: "/index.html" }}{% endcapture %}
+          {% assign subpage_path_array = subpage_path | split: '/' %}
+          {% capture subpage_parent_path %}{% for item in subpage_path_array %}{% unless forloop.last %}{{ item }}/{% endunless %}{% endfor %}{% endcapture %}
+          {% if page_path == subpage_parent_path  %}
+              <li>
+                <a href="{{ site.baseurl }}{{subpage_path}}">
+                  {% if subpage.breadcrumb %}
+                    {{subpage.breadcrumb}}
+                  {% elsif subpage.title %}
+                    {{subpage.title}}
+                  {% else %}
+                    {{subpage_path}}
+                  {% endif %}
+                </a>
+              </li>
+          {% endif %}
+      {% endfor %}
+    {% endcapture %}
+    {% assign subpages_list_stripped = subpages_list | strip %}
+    {% unless subpages_list_stripped == "" %}
+      <hr>
+      <h3>Subpages</h3>
+      <ul>
+        {{ subpages_list }}
+      </ul>
+    {% endunless %}
+  {% endunless %}
 
   {% if page.show-newsletter-below %}
     <div class="row">
