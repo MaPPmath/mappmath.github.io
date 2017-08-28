@@ -38,30 +38,21 @@ differentiate us from other brands using the acronym MAPP.
 
 ## Our Programs
 
-Currently, our two programs are the **High School Challenge** (**HSC** for
-short) and **Middle School Challenge** (**MSC** for short).
+Our puzzlehunt program is the **MaPP Challenge**. When referring to a specific
+game, the year (using the spring of the academic year) is used with an
+apostrophe, e.g. **MaPP Challenge '18**. The apostrophe is not used when
+abbreviating to hashtag, e.g. **#Challenge18**.
+
+Our outreach program is the **MaPP Circle**.
+
+Historically, MaPP organized two puzzlehunts: **High School Challenge**
+(**HSC** for short) and **Middle School Challenge** (**MSC** for short).
 When referring to a specific instance
 of a program, the last two digits of the following spring preceded by
 an apostrophe are used;
 for example, the High School Challenge run during the 2016-17 school
 year is called the **High School Challenge '17**. When abbreviated,
 the apostrophe is not used, e.g. **HSC17**.
-
-The first usage of any of our programs should be preceded by
-**Mathematical Puzzle Programs** or **MaPP** to clearly associate
-the program with our organization, but avoid letter soup such as
-"MaPP HSC17". Here are some variations of
-how to refer to High School Challenge '17 when run at
-the University of South Alabama.
-
-- Mathematical Puzzle Programs' High School Challenge '17
-- MaPP High School Challenge '17 at the University of South Alabama
-- HSC17, presented by South
-- #HSC17atSouth
-
-In particular, do **not** use variations of "MaPP Challenge", since
-this phrasing does not clearly designate either our high school or
-middle school event.
 
 ## Our Logos
 

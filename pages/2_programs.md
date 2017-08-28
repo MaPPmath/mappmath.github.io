@@ -7,35 +7,19 @@ permalink: /programs/
 show-navbar: true
 ---
 
-# High School Challenge
+# MaPP Challenge
 
-Modeled after puzzle competitions like the **MIT Mystery Hunt** and
-**DASH (Different Area Same Hunt)**,
-our High School Challenge pits young adults against fun and engaging
-mathematical puzzles and games.
+Modeled after puzzle competitions like the *MIT Mystery Hunt* and
+*DASH (Different Area Same Hunt)*,
+the **[MaPP Challenge](/programs/challenge)** engages middle and high school
+students with fun and engaging mathematical puzzles and games at our
+[host campuses](/campuses) across the country.
 
-[Learn more about HSC.](/programs/hsc/)
+# MaPP Circle
 
-# Middle School Challenge
-
-A version of our High School Challenge for middle school and junior high
-students, produced in partnership with the A.M.P.'d Middle School Challenge.
-
-[Learn more about MSC.](/programs/msc/)
-
-# Other Programs
-
-MaPP traces its roots back to the
-**A.M.P.'d (Auburn Mathematical Puzzle) Challenge**, a puzzlehunt competition
-for middle school students founded by [MaPP founders](/about/people/)
-Dr. Braxton Carrigan and Dr. Steven Clontz when they were graduate students
-at Auburn University in early 2012. A.M.P.'d continues to host over
-thirty teams each for its annual high school and middle school events.
-A.M.P.'s website may be found at
-<http://www.auburn.edu/cosam/ampd>.
-
-The original pilot event for MaPP's High School Challenge was the
-**Lamar Mathematical Puzzlehunt Challenge (LaMP)**, organized by MaPP founder
-Dr. PJ Couch and designed by Dr. Clontz. It was held at Lamar University in
-Spring 2015, and remains the model for our High School Challenge events
-across the country. Learn more at our [LaMP 2015 page](/programs/hsc/lamp2015).
+To support our [campuses](/campuses) that wish to use MaPP-style puzzles
+in their outreach and math circle programs, our
+**[MaPP Circle](/programs/circle)** program
+provides content for math departments to use when connecting
+with local middle and high school students outside of the annual
+MaPP Challenge.
