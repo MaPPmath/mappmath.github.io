@@ -71,8 +71,3 @@ have included puzzles based upon topology, game theory, design theory, and
 many other fields. By introducing these topics in the context of a mathematical
 puzzle competition, students are motivated to grapple with the material
 in order to discover the hidden messages within.
-
-# More Information
-
-* [Programs/Events](/programs/)
-* [People](/about/people/)
