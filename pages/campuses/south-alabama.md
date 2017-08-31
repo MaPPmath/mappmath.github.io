@@ -17,7 +17,12 @@ Mobile, AL. Students participating in MaPP
 events will solve puzzles, break codes, and engage with new areas of real
 mathematics used in academia and industry!
 
-## What is this about?
+Information on the **[MaPP Challenge][challenge]** puzzlehunt
+to be held at South
+during Spring 2018 will be announced soon!
+Contact [Dr. Steven Clontz][clontz] for more information.
+
+<!-- ## What is this about?
 
 To try out a MaPP-style puzzle, download and print the
 [High School Challenge '17 teaser puzzle][teaser]. You can also download the
@@ -64,15 +69,13 @@ Each team must be accompanied by a teacher or chaperone. The game begins
 with a puzzle that takes place throughout the east side of
 South's [campus][map] (bounded between USA South Dr, USA North Dr, and
 University Blvd),
-so players are encouraged to bring cell phones for communication.
-
-Contact [Prof. Steven Clontz][clontz] for more information. More information
-on the [High School Challenge][hsc] may be found on the [MaPP website][hsc].
+so players are encouraged to bring cell phones for communication. -->
 
 [south]: https://www.southalabama.edu/colleges/artsandsci/mathstat/
 [mapp]: /
 [clontz]: mailto:sclontz@southalabama.edu
 [hsc]: /programs/hsc/
+[challenge]: /programs/challenge/
 [teaser]: /puzzles/hsc17-teaser.pdf
 [hsc16book]: https://github.com/MaPPmath/hsc16/raw/master/booklet.pdf
 [map]: http://www.southalabama.edu/campusmap/
