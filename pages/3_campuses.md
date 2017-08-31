@@ -19,14 +19,18 @@ show-map: true
     - <jmhammer@cedarcrest.edu>
 - Website
     - <https://sites.google.com/site/cedarcrestmappchallenge/>
+- Upcoming Events
+    - TBA
 
 ## Lamar University
 
 - Local Organizer
     - Dr. PJ Couch
     - <pjcouch@lamar.edu>
--Website
+- Website
     - <https://sites.google.com/site/pjcouchlamar/outreach/mapp>
+- Upcoming Events
+    - TBA
 
 ## Middle Georgia State University
 
@@ -34,6 +38,8 @@ show-map: true
     - Dr. Abby Noble
     - <abby.noble@mga.edu>
 - Website
+    - TBA
+- Upcoming Events
     - TBA
 
 ## Saint Louis University
@@ -43,6 +49,8 @@ show-map: true
     - <bryan.clair@slu.edu>
 - Website
     - TBA
+- Upcoming Events
+    - TBA
 
 ## Southern Connecticut State University
 
@@ -51,6 +59,8 @@ show-map: true
     - <carriganb1@southernct.edu>
 - Website
     - <http://www.southernct.edu/go/mapp>
+- Upcoming Events
+    - TBA
 
 ## University of North Carolina at Charlotte
 
@@ -61,6 +71,8 @@ show-map: true
         - <david.petranick@cpcc.edu>
 - High School Challenge website
     - <http://cstem.uncc.edu/stem-student-competitions/mathematical-puzzle-programs>
+- Upcoming Events
+    - TBA
 
 ## University of South Alabama
 
@@ -69,6 +81,8 @@ show-map: true
     - <sclontz@southalabama.edu>
 - Website
     - <http://mappmath.org/campuses/south-alabama/>
+- Upcoming Events
+    - MaPP Challenge '18 - Spring 2018
 
 ## University of St Francis
 
@@ -76,6 +90,8 @@ show-map: true
     - Dr. Megan Powell
     - <MPowell@stfrancis.edu>
 - Website
+    - TBA
+- Upcoming Events
     - TBA
 
 ## Western Carolina University
@@ -85,3 +101,5 @@ show-map: true
     - <adpenland@email.wcu.edu>
 - Website
     - <http://agora.cs.wcu.edu/~adpenland/MaPP.html>
+- Upcoming Events
+    - TBA
