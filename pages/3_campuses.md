@@ -16,7 +16,7 @@ show-map: true
 
 - Local Organizer
     - Dr. James Hammer
-    - <jmhammer@cedarcrest.edu>
+      - <jmhammer@cedarcrest.edu>
 - Website
     - <https://sites.google.com/site/cedarcrestmappchallenge/>
 - Upcoming Events
@@ -26,7 +26,7 @@ show-map: true
 
 - Local Organizer
     - Dr. PJ Couch
-    - <pjcouch@lamar.edu>
+      - <pjcouch@lamar.edu>
 - Website
     - <https://sites.google.com/site/pjcouchlamar/outreach/mapp>
 - Upcoming Events
@@ -34,9 +34,11 @@ show-map: true
 
 ## Middle Georgia State University
 
-- Local Organizer
+- Local Organizers
     - Dr. Abby Noble
-    - <abby.noble@mga.edu>
+      - <abby.noble@mga.edu>
+    - Dr. Matt Noble
+      - <matthewhnoble@mga.edu>
 - Website
     - TBA
 - Upcoming Events
@@ -46,7 +48,7 @@ show-map: true
 
 - Local Organizer
     - Dr. Bryan Clair
-    - <bryan.clair@slu.edu>
+      - <bryan.clair@slu.edu>
 - Website
     - TBA
 - Upcoming Events
@@ -56,7 +58,7 @@ show-map: true
 
 - Local Organizer
     - Dr. Braxton Carrigan
-    - <carriganb1@southernct.edu>
+      - <carriganb1@southernct.edu>
 - Website
     - <http://www.southernct.edu/go/mapp>
 - Upcoming Events
@@ -78,7 +80,7 @@ show-map: true
 
 - Local Organizer
     - Dr. Steven Clontz
-    - <sclontz@southalabama.edu>
+      - <sclontz@southalabama.edu>
 - Website
     - <http://mappmath.org/campuses/south-alabama/>
 - Upcoming Events
@@ -88,7 +90,7 @@ show-map: true
 
 - Local Organizer
     - Dr. Megan Powell
-    - <MPowell@stfrancis.edu>
+      - <MPowell@stfrancis.edu>
 - Website
     - TBA
 - Upcoming Events
@@ -98,7 +100,7 @@ show-map: true
 
 - Local Organizer
     - Dr. Andrew Penland
-    - <adpenland@email.wcu.edu>
+      - <adpenland@email.wcu.edu>
 - Website
     - <http://agora.cs.wcu.edu/~adpenland/MaPP.html>
 - Upcoming Events
