@@ -38,11 +38,14 @@ show-map: true
     - Dr. Abby Noble
       - <abby.noble@mga.edu>
     - Dr. Matt Noble
-      - <matthewhnoble@mga.edu>
+      - <matthew.noble@mga.edu>
+    - Dr. Duane Day
+      - <duane.day@mga.edu>
 - Website
-    - TBA
+    - <http://mappatmga.wix.com/mapp>
 - Upcoming Events
-    - TBA
+    - MaPP Challenge '18 at MGA
+      - 2017 November 03
 
 ## Saint Louis University
 
