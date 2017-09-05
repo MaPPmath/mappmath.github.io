@@ -87,7 +87,8 @@ show-map: true
 - Website
     - <http://mappmath.org/campuses/south-alabama/>
 - Upcoming Events
-    - MaPP Challenge '18 - Spring 2018
+    - MaPP Challenge '18 at South
+      - 2018 Spring
 
 ## University of St Francis
 
