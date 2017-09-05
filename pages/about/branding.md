@@ -56,4 +56,11 @@ the apostrophe is not used, e.g. **HSC17**.
 
 ## Our Logos
 
-To be updated.
+![MaPP logo](/img/logo/banner_color.svg)
+
+Source files for MaPP logos may be found in the
+[GitHub repository for this website][logo]. For best results, resize the
+Scalable Vector Graphics (SVG) version of the appropriate logo to fit your
+needs.
+
+[logo]: https://github.com/MaPPmath/mappmath.github.io/tree/master/img/logo
