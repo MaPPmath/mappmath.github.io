@@ -92,8 +92,9 @@ Bonus Puzzles are optimization-based challenges designed to
 
 Players who uncover the mathematical ideas in the Main Puzzles are
 given the chance to tackle one or more
-Cryptic Puzzles. The method of solving isn't always straight-forward,
-so players will enjoy puzzling out the hidden meanings of these challenges.
+Cryptic Puzzles. The methods of extracting their solutions aren't
+straight-forward, so players will enjoy puzzling out the hidden meanings of
+these challenges.
 
 ### Metapuzzle
 
