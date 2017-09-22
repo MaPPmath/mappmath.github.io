@@ -46,7 +46,9 @@ mathematics camps in Australia.
 
 As director for our [MaPP Circle](/programs/circle) program, Dr. Carrigan
 coordinates with local organizers that use MaPP Circle content for their
-high school outreach events.
+high school outreach events. Dr. Carrigan also coordinates MaPP's workshops
+to train our colleagues in the benefits of and logistics for running
+MaPP programs.
 
 You can contact Dr. Carrigan by email at <carriganb1@southernct.edu>.
 
