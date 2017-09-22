@@ -8,16 +8,23 @@ permalink: /about/people/
 
 # Director
 
-![Clontz](http://www.gravatar.com/avatar/2f9ecf8e56d48c8fd7adff7a8b5400bb?size=200)
+![clontz](/img/steven-clontz.jpg)
 
-**Dr. Steven Clontz**, Assistant Professor of Mathematics at the
-[University of South Alabama](https://www.southalabama.edu/colleges/artsandsci/mathstat/),
-has been an active puzzle competitor and designer since 2009.
-In addition to Dr. Clontz's work with MaPP, his credits include several
-general audience puzzle events across the United States.
+Dr. Steven Clontz, Assistant Professor of Mathematics at the University of
+South Alabama, has been an active puzzle competitor and designer since 2009. In
+addition to Dr. Clontz’s work with MaPP, his credits include several general
+audience puzzle events across the United States, including partnerships with
+escape room businesses and the National Museum of Mathematics.
 
-As director of MaPP, Dr. Clontz oversees the design of quality mathematical
-puzzle content for our various programs.
+As director of
+MaPP, Dr. Clontz oversees the design of quality mathematical puzzle content for
+our various programs.
+In particular, Dr. Clontz strives to find ways to take mathematical research,
+including his own work in topology and game theory, and make it accessible to
+high school students by applying the same concepts in many of MaPP's puzzles.
+He also loves to duplicate the fun of MaPP's programs in his classroom by
+employing he same philosophy of active inquiry and team-based learning in his
+courses.
 
 You can follow Dr. Clontz on Twitter
 [@StevenXClontz](http://twitter.com/StevenXClontz) or visit his website
