@@ -10,7 +10,7 @@ permalink: /about/people/
 
 ![clontz](/img/steven-clontz.jpg)
 
-Dr. Steven Clontz, Assistant Professor of Mathematics at the University of
+**Dr. Steven Clontz**, Assistant Professor of Mathematics at the University of
 South Alabama, has been an active puzzle competitor and designer since 2009. In
 addition to Dr. Clontz’s work with MaPP, his credits include several general
 audience puzzle events across the United States, including partnerships with
