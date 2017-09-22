@@ -60,7 +60,9 @@ first MaPP Middle School Challenge at Lamar University.
 
 As director for our [MaPP Challenge](/programs/challenge) program,
 Dr. Couch coordinates with local organizers to help campuses run entertaining
-and educational mathematical puzzlehunts each year.
+and educational mathematical puzzlehunts each year. Dr. Couch also supports
+overseas mathematical programs via his work with
+[MaPP Abroad](/programs/abroad).
 
 You can contact Dr. Couch by email at <pjcouch@lamar.edu> or
 visit his website at <http://pjcou.ch/>.
