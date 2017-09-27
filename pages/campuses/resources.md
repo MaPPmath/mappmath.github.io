@@ -6,4 +6,4 @@ header-img: "img/bg/hidden.jpg"
 permalink: /campuses/resources/
 ---
 
-TODO
+More information will be added to this page at a later date.

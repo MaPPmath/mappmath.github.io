@@ -22,6 +22,11 @@ to be held at South
 during Spring 2018 will be announced soon!
 Contact [Dr. Steven Clontz][clontz] for more information.
 
+We'd like to acknowledge support for the MaPP Challenge '18 at South provided
+by the [Dolciani Mathematics Enrichment Grants (DMEG)][demg].
+
+[demg]: https://www.maa.org/programs/maa-grants/dolciani-mathematics-enrichment-grants
+
 <!-- ## What is this about?
 
 To try out a MaPP-style puzzle, download and print the
