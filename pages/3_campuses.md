@@ -20,7 +20,8 @@ show-map: true
 - Website
     - <https://sites.google.com/site/cedarcrestmappchallenge/>
 - Upcoming Events
-    - TBA
+    - MaPP Challenge '18 at CCC
+      - 2018 Spring
 
 ## Lamar University
 
@@ -30,7 +31,8 @@ show-map: true
 - Website
     - <https://sites.google.com/site/pjcouchlamar/outreach/mapp>
 - Upcoming Events
-    - TBA
+    - MaPP Challenge '18 at LU
+      - 2018 April 21
 
 ## Middle Georgia State University
 
@@ -55,7 +57,8 @@ show-map: true
 - Website
     - TBA
 - Upcoming Events
-    - TBA
+    - MaPP Challenge '18 at SLU
+      - 2018 April 7
 
 ## Southern Connecticut State University
 
@@ -96,9 +99,10 @@ show-map: true
     - Dr. Megan Powell
       - <MPowell@stfrancis.edu>
 - Website
-    - TBA
+    - https://sites.google.com/view/usfmapp
 - Upcoming Events
-    - TBA
+    - MaPP Challenge '18 at SFU
+      - 2017 November 11
 
 ## Western Carolina University
 
@@ -108,4 +112,5 @@ show-map: true
 - Website
     - <http://agora.cs.wcu.edu/~adpenland/MaPP.html>
 - Upcoming Events
-    - TBA
+    - MaPP Challenge '18 at WCU
+      - 2017 November
