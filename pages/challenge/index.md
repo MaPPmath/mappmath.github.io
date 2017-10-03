@@ -17,6 +17,11 @@ between October and April each school year.
 **Think you have what it takes?** Check out our [Puzzles](/puzzles/) for
 examples of the challenges you'll tackle in the MaPP Challenge!
 
+## MaPP Challenge '18
+
+Information on our 2017-18 event may be found on the
+[MaPP Challenge '18 page](/programs/challenge/18/).
+
 ---
 
 # About the MaPP Challenge
