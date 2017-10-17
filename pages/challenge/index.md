@@ -114,7 +114,7 @@ Hey, you never know.
 
 # Who can be on a team?
 
-Depending on your campus, four to six students may form a team. Of
+Depending on your campus, up to eight students may form a team. Of
 course, teams with more students will be more competitive. Most campuses allow
 each school to field up to two teams, each of which must have a teacher or
 chaperone on site.
@@ -122,7 +122,8 @@ chaperone on site.
 Students with experience solving mathematical puzzles will have an advantage in
 competition, but this team-based event can be enjoyed by most students
 regardless of background. Our hope is that this event will convince students who
-don't already love math to broaden their horizons a little.
+don't already love math to broaden their horizons a little, and gain a new
+appreciation for what math can be.
 
 ---
 
