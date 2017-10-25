@@ -22,6 +22,11 @@ examples of the challenges you'll tackle in the MaPP Challenge!
 Information on our 2017-18 event may be found on the
 [MaPP Challenge '18 page](/programs/challenge/18/).
 
+## Teaser Puzzle
+
+Our latest MaPP Challenge teaser puzzle may be downloaded
+[here](/puzzles/mapp-challenge-18-teaser-puzzle.pdf).
+
 ---
 
 # About the MaPP Challenge
