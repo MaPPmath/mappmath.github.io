@@ -21,8 +21,7 @@ mathematics used in academia and industry!
 
 Our 2017-18 **[MaPP Challenge][challenge]** puzzlehunt
 will be held at South on **2018 January 27**. The game is currently scheduled
-to run between 10am and 4pm that Saturday. More updates (including registration)
-to come;
+to run between 10am and 4pm that Saturday.
 
 #### Registration
 
