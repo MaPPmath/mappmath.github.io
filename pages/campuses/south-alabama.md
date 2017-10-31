@@ -51,6 +51,23 @@ Is this your first MaPP Challenge? Are you looking for a warm-up puzzle?
 Try out our [Challenge '18 teaser puzzle][teaser]!
 More puzzles may be found at [MaPP's Puzzles page][puzzles].
 
+#### ClueKeeper App
+
+Each team must provide at least one smart device with GPS, cellular internet
+access, and the [ClueKeeper app][cluekeeper] installed. Submitting solutions
+and finding hidden locations on campus will be done via this app.
+A smartphone belonging to a student will likely serve this purpose.
+Please contact [Ms. Kristal Webb][webb] for assistance.
+
+#### Campus Map
+
+MaPP Challenge '18 will be run within the area bounded by University Blvd,
+USA North Dr, and USA South Dr as pictured on [this map][south-map].
+Players will need to check-in to certain locations on campus during the
+first hour of the game; the rest of the game
+(including check-in and orientation) will be held in the Humanities Building
+(different from last year).
+
 #### Contact
 
 Contact [Ms. Kristal Webb][webb] for more information on this event.
@@ -63,6 +80,8 @@ by the [Dolciani Mathematics Enrichment Grants (DMEG)][demg].
 
 [south]: https://www.southalabama.edu/colleges/artsandsci/mathstat/
 [mapp]: /
+[cluekeeper]: https://www.cluekeeper.com/
+[south-map]: /img/south-alabama/south-map.pdf
 [registration]: https://goo.gl/forms/1hypdvM4tdwaFzr03
 [teaser]: /puzzles/mapp-challenge-18-teaser-puzzle.pdf
 [clontz]: mailto:sclontz@southalabama.edu
