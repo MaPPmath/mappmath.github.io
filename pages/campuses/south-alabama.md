@@ -68,6 +68,10 @@ first hour of the game; the rest of the game
 (including check-in and orientation) will be held in the Humanities Building
 (different from last year).
 
+In particular, teachers should not bring students they do not trust to
+explore this portion of South's campus without direct supervision.
+Students remain the responsibility of their teacher during this event.
+
 #### Contact
 
 Contact [Ms. Kristal Webb][webb] for more information on this event.
