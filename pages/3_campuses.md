@@ -45,7 +45,7 @@ show-map: true
       - <duane.day@mga.edu>
 - Website
     - <http://mappatmga.wix.com/mapp>
-- Upcoming Events
+- Recent Events
     - MaPP Challenge '18 at MGA
       - 2017 November 03
 
@@ -68,7 +68,8 @@ show-map: true
 - Website
     - <http://www.southernct.edu/go/mapp>
 - Upcoming Events
-    - TBA
+    - MaPP Challenge '18 at SCSU
+        - 2018 March/April
 
 ## University of North Carolina at Charlotte
 
@@ -80,7 +81,8 @@ show-map: true
 - High School Challenge website
     - <http://cstem.uncc.edu/stem-student-competitions/mathematical-puzzle-programs>
 - Upcoming Events
-    - TBA
+    - MaPP Challenge '18 at UNC Charlotte
+        - 2018 April 14
 
 ## University of South Alabama
 
@@ -91,7 +93,7 @@ show-map: true
     - <http://mappmath.org/campuses/south-alabama/>
 - Upcoming Events
     - MaPP Challenge '18 at South
-      - 2018 Spring
+        - 2018 January 27
 
 ## University of St Francis
 
@@ -102,7 +104,7 @@ show-map: true
     - https://sites.google.com/view/usfmapp
 - Upcoming Events
     - MaPP Challenge '18 at SFU
-      - 2017 November 11
+      - 2018 Spring
 
 ## Western Carolina University
 
@@ -113,4 +115,4 @@ show-map: true
     - <http://agora.cs.wcu.edu/~adpenland/MaPP.html>
 - Upcoming Events
     - MaPP Challenge '18 at WCU
-      - 2017 November
+      - 2017 January

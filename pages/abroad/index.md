@@ -11,4 +11,5 @@ by our [campus partners](/campuses/), by providing engaging mathematical
 content to support programs across the world.
 
 MaPP is proud to support the Maths Camp in Kyoto, Japan in 2016 and 2017.
-More details are coming soon.
+Contact [Dr. PJ Couch](/about/people/) for more information on
+MaPP Abroad.
