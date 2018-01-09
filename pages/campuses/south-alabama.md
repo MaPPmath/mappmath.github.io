@@ -20,30 +20,17 @@ mathematics used in academia and industry!
 ### MaPP Challenge '18: Gotta Solve 'Em All!
 
 Our 2017-18 **[MaPP Challenge][challenge]** puzzlehunt
-will be held at South on **2018 January 27**. The game is currently scheduled
-to run between 10am and 4pm that Saturday.
+will be held at South on **2018 January 27**.
 
-#### Registration
+#### Schedule
 
-To field one or more teams from your school, please complete our
-[online registration form][registration]. The deadline for registration
-is December 4, but space is limited and early registrations will be given
-preference if we run out of room. We will try to accommodate as many schools
-and teams as possible.
-
-#### Cost
-
-The first team from each school costs $100 (includes lunch for all players
-and chaperones). Additional teams cost $50 each.
-Payment is due after registration closes and participation is confirmed.
-Failure to arrange payment in a timely fashion may result in being replaced by
-a waitlisted school.
-
-The fee for a second team will be waived for schools
-that invite South's Math/Stat Outreach committee to visit their school for a
-presentation on academics, careers, and puzzles related to mathematics and
-statistics. For more information, contact Paul Jones at
-<pauljones@southalabama.edu>.
+- 10:00am: Registration
+- 10:15am: Orientation
+- 10:45am: Puzzling Begins!
+- 12:00pm: Lunch (puzzling continues!)
+- 2:45pm:  Solutions Due
+- 3:00pm:  Wrap-Up and Awards
+- 3:30pm:  Dismissal
 
 #### Teaser Puzzle
 
