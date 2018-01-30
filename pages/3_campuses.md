@@ -58,7 +58,7 @@ show-map: true
     - TBA
 - Upcoming Events
     - MaPP Challenge '18 at SLU
-      - 2018 April 7
+      - 2018 April 07
 
 ## Southern Connecticut State University
 
@@ -69,7 +69,7 @@ show-map: true
     - <http://www.southernct.edu/go/mapp>
 - Upcoming Events
     - MaPP Challenge '18 at SCSU
-        - 2018 March/April
+        - 2018 April 06
 
 ## University of North Carolina at Charlotte
 
@@ -91,7 +91,7 @@ show-map: true
       - <sclontz@southalabama.edu>
 - Website
     - <http://mappmath.org/campuses/south-alabama/>
-- Upcoming Events
+- Recent Events
     - MaPP Challenge '18 at South
         - 2018 January 27
 
@@ -115,4 +115,4 @@ show-map: true
     - <http://agora.cs.wcu.edu/~adpenland/MaPP.html>
 - Upcoming Events
     - MaPP Challenge '18 at WCU
-      - 2017 January
+      - 2018 February 10
