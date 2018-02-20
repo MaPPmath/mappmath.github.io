@@ -19,13 +19,12 @@ examples of the challenges you'll tackle in the MaPP Challenge!
 
 ## MaPP Challenge '18
 
-Information on our 2017-18 event may be found on the
-[MaPP Challenge '18 page](/programs/challenge/18/).
+**MaPP Challenge '18: Gotta Solve 'Em All!** will be run throughout the
+2017-18 academic year at our [partner campuses](/campuses/) across the country.
 
-## Teaser Puzzle
-
-Our latest MaPP Challenge teaser puzzle may be downloaded
-[here](/puzzles/mapp-challenge-18-teaser-puzzle.pdf).
+For an introduction to this year's Challenge and an example puzzle,
+we've provided a simple
+[teaser puzzle](/puzzles/mapp-challenge-18-teaser-puzzle.pdf).
 
 ---
 
