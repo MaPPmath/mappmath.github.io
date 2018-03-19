@@ -43,7 +43,7 @@ MaPP shredded the multiple choice tests, and instead designed several
 mathematical puzzles which will give your students a taste of real mathematical
 problem solving. Rather than solving for X, players will be challenged with
 cracking codes and uncovering hidden messages using their critical
-thinking and inginuity.
+thinking and ingenuity.
 
 ### Team-building
 

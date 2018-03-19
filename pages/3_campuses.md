@@ -58,7 +58,7 @@ show-map: true
     - TBA
 - Upcoming Events
     - MaPP Challenge '18 at SLU
-      - 2018 April 07
+      - 2018 April 14 
 
 ## Southern Connecticut State University
 
