@@ -14,8 +14,8 @@ isn't necessary to enjoy the game!
 These events are ran at our [partner campuses](/campuses/) across the country
 between October and April each school year.
 
-**Think you have what it takes?** Check out our [Puzzles](/puzzles/) for
-examples of the challenges you'll tackle in the MaPP Challenge!
+**Think you have what it takes?** Check out our [Puzzles](/puzzles/)
+page to see the puzzles that players have solved in previous Challenges!
 
 ---
 
