@@ -17,15 +17,6 @@ between October and April each school year.
 **Think you have what it takes?** Check out our [Puzzles](/puzzles/) for
 examples of the challenges you'll tackle in the MaPP Challenge!
 
-## MaPP Challenge '18
-
-**MaPP Challenge '18: Gotta Solve 'Em All!** will be run throughout the
-2017-18 academic year at our [partner campuses](/campuses/) across the country.
-
-For an introduction to this year's Challenge and an example puzzle,
-we've provided a simple
-[teaser puzzle](/puzzles/mapp-challenge-18-teaser-puzzle.pdf).
-
 ---
 
 # About the MaPP Challenge
@@ -81,21 +72,23 @@ Successful players will...
 
 # What will players do at the MaPP Challenge?
 
-There are a few stages to the game:
+The event varies slightly between campuses,
+but here is a brief overview of what to expect:
 
 ### Opening Puzzle
 
 The game begins with a mathematical challenge which will get
-players up and running for the day's puzzles.
+players moving around in search of the rest of the day's puzzles.
 
 ### Main Puzzles
 
-Teams are posed several mathematics-inspired Main Puzzles, each of
-which solves to a hidden word or phrase.
+Teams are posed several Main Puzzles inspired by real mathematical
+research, each of which solves to a hidden word or phrase.
 
-### Bonus Puzzles
+### Bonus Puzzle
 
-Bonus Puzzles are optimization-based challenges designed to
+The optimization-based Bonus Puzzle challenges each team to find
+the best possible solution they can to a mathematical conundrum.
 
 ### Cryptic Puzzles
 
@@ -123,9 +116,9 @@ course, teams with more students will be more competitive. Most campuses allow
 each school to field up to two teams, each of which must have a teacher or
 chaperone on site.
 
-Students with experience solving mathematical puzzles will have an advantage in
-competition, but this team-based event can be enjoyed by most students
-regardless of background. Our hope is that this event will convince students who
+This team-based event can be enjoyed by most students
+regardless of experience with mathematics or puzzle competitions. 
+Our hope is that this event will convince students who
 don't already love math to broaden their horizons a little, and gain a new
 appreciation for what math can be.
 

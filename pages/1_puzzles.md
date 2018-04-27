@@ -33,18 +33,19 @@ usual arithmetic-to-calculus sequence.
 ## More Puzzles
 
 MaPP [open-sources](/open/) its game books for use by anyone under a
-Creative Commons license. PDFs of previous High School Challenge game books
+Creative Commons license. PDFs of previous game books
 are available at the following links.
 
-- [Lamar Mathematical Puzzlehunt 2015][lamp2015]
-- [High School Challenge '16][hsc16]
-- [Middle School Challenge '17][msc17]
+- [Challenge '18][c18]
 - [High School Challenge '17][hsc17]
+- [High School Challenge '16][hsc16]
+- [Lamar Mathematical Puzzlehunt 2015][lamp2015]
 
 [lamp2015]: https://github.com/MaPPmath/lamp-2015/raw/master/booklet.pdf
 [hsc16]: https://github.com/MaPPmath/hsc16/raw/master/booklet.pdf
 [msc17]: https://github.com/MaPPmath/msc17/raw/master/msc17-game-book.pdf
 [hsc17]: https://github.com/MaPPmath/hsc17/raw/master/mapp-hsc17-game-book.pdf
+[c18]: http://github.com/MaPPmath/challenge18/raw/master/mapp-challenge-18-game-book.pdf
 
 ## Contributing a Puzzle
 
