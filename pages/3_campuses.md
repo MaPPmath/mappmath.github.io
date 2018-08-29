@@ -90,7 +90,7 @@ show-map: true
     - Dr. Steven Clontz
       - <sclontz@southalabama.edu>
 - Website
-    - <http://mappmath.org/campuses/south-alabama/>
+    - <https://sites.google.com/southalabama.edu/dms-outreach/>
 - Recent Events
     - MaPP Challenge '18 at South
         - 2018 January 27

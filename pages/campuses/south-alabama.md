@@ -17,6 +17,9 @@ Mobile, AL. Students participating in MaPP
 events will solve puzzles, break codes, and engage with new areas of real
 mathematics used in academia and industry!
 
+Visit <https://sites.google.com/southalabama.edu/dms-outreach/>
+for more information!
+
 ### MaPP Challenge '18: Gotta Solve 'Em All!
 
 Our 2017-18 **[MaPP Challenge][challenge]** puzzlehunt
