@@ -19,9 +19,6 @@ show-map: true
       - <jmhammer@cedarcrest.edu>
 - Website
     - <https://sites.google.com/site/cedarcrestmappchallenge/>
-- Upcoming Events
-    - MaPP Challenge '18 at CCC
-      - 2018 Spring
 
 ## Lamar University
 
@@ -30,9 +27,6 @@ show-map: true
       - <pjcouch@lamar.edu>
 - Website
     - <https://sites.google.com/site/pjcouchlamar/outreach/mapp>
-- Upcoming Events
-    - MaPP Challenge '18 at LU
-      - 2018 April 21
 
 ## Middle Georgia State University
 
@@ -45,9 +39,6 @@ show-map: true
       - <duane.day@mga.edu>
 - Website
     - <http://mappatmga.wix.com/mapp>
-- Recent Events
-    - MaPP Challenge '18 at MGA
-      - 2017 November 03
 
 ## Saint Louis University
 
@@ -56,9 +47,6 @@ show-map: true
       - <bryan.clair@slu.edu>
 - Website
     - TBA
-- Upcoming Events
-    - MaPP Challenge '18 at SLU
-      - 2018 April 14 
 
 ## Southern Connecticut State University
 
@@ -67,9 +55,6 @@ show-map: true
       - <carriganb1@southernct.edu>
 - Website
     - <http://www.southernct.edu/go/mapp>
-- Upcoming Events
-    - MaPP Challenge '18 at SCSU
-        - 2018 April 06
 
 ## University of North Carolina at Charlotte
 
@@ -78,11 +63,8 @@ show-map: true
         - <hbreiter@uncc.edu>
     - Dave Petranick
         - <david.petranick@cpcc.edu>
-- High School Challenge website
+- Website
     - <http://cstem.uncc.edu/stem-student-competitions/mathematical-puzzle-programs>
-- Upcoming Events
-    - MaPP Challenge '18 at UNC Charlotte
-        - 2018 April 14
 
 ## University of South Alabama
 
@@ -93,9 +75,6 @@ show-map: true
       - <sclontz@southalabama.edu>
 - Website
     - <https://sites.google.com/southalabama.edu/dms-outreach/>
-- Recent Events
-    - MaPP Challenge '18 at South
-        - 2018 January 27
 
 ## University of St Francis
 
@@ -104,9 +83,6 @@ show-map: true
       - <MPowell@stfrancis.edu>
 - Website
     - https://sites.google.com/view/usfmapp
-- Upcoming Events
-    - MaPP Challenge '18 at SFU
-      - 2018 Spring
 
 ## Western Carolina University
 
@@ -115,6 +91,3 @@ show-map: true
       - <adpenland@email.wcu.edu>
 - Website
     - <http://agora.cs.wcu.edu/~adpenland/MaPP.html>
-- Upcoming Events
-    - MaPP Challenge '18 at WCU
-      - 2018 February 10
