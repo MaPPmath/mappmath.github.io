@@ -87,6 +87,8 @@ show-map: true
 ## University of South Alabama
 
 - Local Organizer
+    - Ms. Kristal Webb
+      - <kwebb@southalabama.edu>
     - Dr. Steven Clontz
       - <sclontz@southalabama.edu>
 - Website
