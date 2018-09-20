@@ -35,7 +35,7 @@ at [clontz.org](http://clontz.org). He may be emailed at
 <sclontz@southalabama.edu>.
 
 
-# Associate Director for MaPP Circle  
+# Associate Director 
 
 ![Carrigan](/img/braxton-carrigan.jpg)
 
@@ -68,7 +68,7 @@ as an introduction to studying theoretical mathematics.
 You can contact Dr. Carrigan by email at <carriganb1@southernct.edu>.
 
 
-# Associate Director for MaPP Challenge
+# Associate Director
 
 **Dr. PJ Couch**,  Distinguished Faculty Teaching Fellow and 
 Assistant Professor of Mathematics at Lamar University,
