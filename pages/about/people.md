@@ -8,17 +8,16 @@ permalink: /about/people/
 
 # Director
 
-![clontz](/img/steven-clontz.jpg)
+![clontz](http://www.gravatar.com/avatar/2f9ecf8e56d48c8fd7adff7a8b5400bb?size=400)
 
 **Dr. Steven Clontz**, Assistant Professor of Mathematics at the University of
 South Alabama, has been an active puzzle competitor and designer since 2009. In
 addition to Dr. Clontz’s work with MaPP, his credits include several general
 audience puzzle events across the United States, including partnerships with
 escape room businesses and the National Museum of Mathematics. At South,
-Dr. Clontz chairs the mathematics department's Student Affairs Committee
-and serves on its Outreach Committee, using MaPP's programs to connect
-with undergraduates at his university and high school students in his
-community.
+Dr. Clontz chairs the mathematics department's Outreach Committee, 
+using MaPP's programs to connect with undergraduates at his university and 
+high school students in his community.
 
 As director of
 MaPP, Dr. Clontz oversees the design of quality mathematical puzzle content for
@@ -85,13 +84,6 @@ overseas mathematical outreach programs via his work with
 
 You can contact Dr. Couch by email at <pjcouch@lamar.edu> or
 visit his website at <http://pjcou.ch/>.
-
-
-## Assistant Director for MaPP Challenge
-
-**Dr. Zachary Sarver** serves as the designer for the MaPP High School
-Challenge '17 and MaPP Challenge '18 events.
-
 
 ## Other Volunteers
 
