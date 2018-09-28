@@ -19,10 +19,7 @@ Dr. Clontz chairs the mathematics department's Outreach Committee,
 using MaPP's programs to connect with undergraduates at his university and 
 high school students in his community.
 
-As director of
-MaPP, Dr. Clontz oversees the design of quality mathematical puzzle content for
-our various programs.
-In particular, Dr. Clontz strives to find ways to take mathematical research,
+Dr. Clontz strives to find ways to take mathematical research,
 including his own work in topology and game theory, and make it accessible to
 high school students by applying the same concepts in many of MaPP's puzzles.
 He also loves to duplicate the fun of MaPP's programs in his classroom by
@@ -57,11 +54,7 @@ at SCSU.
 [ibl-textbook]: https://books.google.com/books/about/Investigating_Discrete_Mathematics.html?id=zpL9sgEACAAJ&hl=en
 [ampd]: http://www.auburn.edu/cosam/departments/outreach/programs/AMPd/
 
-As director for our [MaPP Circle](/programs/circle) program, Dr. Carrigan
-designs mathematical puzzles used to help our campus organizers connect with
-local high school students. Dr. Carrigan also coordinates MaPP's workshops
-to train our colleagues on the benefits of MaPP's programs and the logistics
-to run them successfully. As an instructor of many pre-service teachers at
+As an instructor of many pre-service teachers at
 his university, Dr. Carrigan utilizes mathematical puzzles in the classroom 
 as an introduction to studying theoretical mathematics.
 
@@ -73,14 +66,8 @@ You can contact Dr. Carrigan by email at <carriganb1@southernct.edu>.
 **Dr. PJ Couch**,  Distinguished Faculty Teaching Fellow and 
 Assistant Professor of Mathematics at Lamar University,
 established the Lamar Mathematical Puzzlehunt in 2015, which served as the
-pilot event for MaPP's High School Challenge. Dr. Couch also sponsored the
+pilot event for the MaPP's Challenge. Dr. Couch also sponsored the
 first MaPP Middle School Challenge at Lamar University.
-
-As director for our [MaPP Challenge](/programs/challenge) program,
-Dr. Couch coordinates with local organizers to help campuses run entertaining
-and educational mathematical puzzlehunts each year. Dr. Couch also supports
-overseas mathematical outreach programs via his work with
-[MaPP Abroad](/programs/abroad).
 
 You can contact Dr. Couch by email at <pjcouch@lamar.edu> or
 visit his website at <http://pjcou.ch/>.
