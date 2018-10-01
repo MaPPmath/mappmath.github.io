@@ -12,14 +12,6 @@ show-map: true
   <a href="#locations-map">Interactive map of campuses</a>
 </p>
 
-## Cedar Crest College
-
-- Local Organizer
-    - Dr. James Hammer
-      - <jmhammer@cedarcrest.edu>
-- Website
-    - <https://sites.google.com/site/cedarcrestmappchallenge/>
-
 ## Lamar University
 
 - Local Organizer
@@ -59,10 +51,9 @@ show-map: true
 ## University of North Carolina at Charlotte
 
 - Local Organizers
-    - Dr. Harold Reiter
-        - <hbreiter@uncc.edu>
-    - Dave Petranick
-        - <david.petranick@cpcc.edu>
+    - Ms. Allison Hahn 
+        - <ahahn10@uncc.edu>
+    - Mr. Dave Petranick
 - Website
     - <http://cstem.uncc.edu/stem-student-competitions/mathematical-puzzle-programs>
 
@@ -82,7 +73,7 @@ show-map: true
     - Dr. Megan Powell
       - <MPowell@stfrancis.edu>
 - Website
-    - https://sites.google.com/view/usfmapp
+    - <https://sites.google.com/view/usfmapp>
 
 ## Western Carolina University
 
