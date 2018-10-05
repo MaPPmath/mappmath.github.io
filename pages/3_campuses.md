@@ -38,7 +38,7 @@ show-map: true
     - Dr. Bryan Clair
       - <bryan.clair@slu.edu>
 - Website
-    - TBA
+    - <http://math.slu.edu/mapp-high-school-challenge> 
 
 ## Southern Connecticut State University
 
