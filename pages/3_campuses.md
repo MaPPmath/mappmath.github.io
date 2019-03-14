@@ -18,7 +18,7 @@ show-map: true
     - Dr. PJ Couch
       - <pjcouch@lamar.edu>
 - Website
-    - <https://sites.google.com/site/pjcouchlamar/outreach/mapp>
+    - <https://www.lamar.edu/mappchallenge>
 
 ## Middle Georgia State University
 
@@ -67,13 +67,13 @@ show-map: true
 - Website
     - <https://sites.google.com/southalabama.edu/dms-outreach/>
 
-## University of St Francis
+## University of North Carolina as Asheville
 
 - Local Organizer
     - Dr. Megan Powell
-      - <MPowell@stfrancis.edu>
+      - <mpowell4@unca.edu>
 - Website
-    - <https://sites.google.com/view/usfmapp>
+    - <https://sites.google.com/view/uncamapp>
 
 ## Western Carolina University
 
