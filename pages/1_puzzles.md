@@ -36,6 +36,7 @@ MaPP [open-sources](/open/) its game books for use by anyone under a
 Creative Commons license. PDFs of previous game books
 are available at the following links.
 
+- [Challenge '19][c19]
 - [Challenge '18][c18]
 - [High School Challenge '17][hsc17]
 - [High School Challenge '16][hsc16]
@@ -46,6 +47,7 @@ are available at the following links.
 [msc17]: https://github.com/MaPPmath/msc17/raw/master/msc17-game-book.pdf
 [hsc17]: https://github.com/MaPPmath/hsc17/raw/master/mapp-hsc17-game-book.pdf
 [c18]: http://github.com/MaPPmath/challenge18/raw/master/mapp-challenge-18-game-book.pdf
+[c19]: http://github.com/MaPPmath/challenge19/raw/master/mapp-challenge-19-game-book.pdf
 
 ## Contributing a Puzzle
 
