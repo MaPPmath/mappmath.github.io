@@ -47,7 +47,7 @@ are available at the following links.
 [msc17]: https://github.com/MaPPmath/msc17/raw/master/msc17-game-book.pdf
 [hsc17]: https://github.com/MaPPmath/hsc17/raw/master/mapp-hsc17-game-book.pdf
 [c18]: http://github.com/MaPPmath/challenge18/raw/master/mapp-challenge-18-game-book.pdf
-[c19]: http://github.com/MaPPmath/challenge19/raw/master/mapp-challenge-19-game-book.pdf
+[c19]: https://github.com/MaPPmath/challenge19/raw/master/mapp-challenge-19.pdf
 
 ## Contributing a Puzzle
 
