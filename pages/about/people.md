@@ -16,8 +16,8 @@ Any of our directors or other volunteers may be contacted by emailing
 
 ![clontz](http://www.gravatar.com/avatar/2f9ecf8e56d48c8fd7adff7a8b5400bb?size=400)
 
-**Dr. Steven Clontz**, Assistant Professor of Mathematics at the University of
-South Alabama, has been an active puzzle competitor and designer since 2009. In
+**Dr. Steven Clontz**
+has been an active puzzle competitor and designer since 2009. In
 addition to Dr. Clontz’s work with MaPP, his credits include several general
 audience puzzle events around the world, including partnerships with
 international puzzlehunt competitions, escape room businesses,
