@@ -6,18 +6,16 @@ header-img: "img/bg/outdoors.jpg"
 permalink: /about/people/
 ---
 
-# Director
+# Director of Games and Puzzles
 
 ![clontz](http://www.gravatar.com/avatar/2f9ecf8e56d48c8fd7adff7a8b5400bb?size=400)
 
 **Dr. Steven Clontz**, Assistant Professor of Mathematics at the University of
 South Alabama, has been an active puzzle competitor and designer since 2009. In
 addition to Dr. Clontz’s work with MaPP, his credits include several general
-audience puzzle events across the United States, including partnerships with
-escape room businesses and the National Museum of Mathematics. At South,
-Dr. Clontz chairs the mathematics department's Outreach Committee, 
-using MaPP's programs to connect with undergraduates at his university and 
-high school students in his community.
+audience puzzle events around the world, including partnerships with
+international puzzlehunt competitions, escape room businesses,
+and the National Museum of Mathematics.
 
 Dr. Clontz strives to find ways to take mathematical research,
 including his own work in topology and game theory, and make it accessible to
@@ -32,7 +30,7 @@ at [clontz.org](http://clontz.org). He may be emailed at
 <sclontz@southalabama.edu>.
 
 
-# Associate Director 
+# Director of Mathematics
 
 ![Carrigan](/img/braxton-carrigan.jpg)
 
@@ -61,19 +59,21 @@ as an introduction to studying theoretical mathematics.
 You can contact Dr. Carrigan by email at <carriganb1@southernct.edu>.
 
 
-# Associate Director
+# Director of Campuses
 
 **Dr. PJ Couch**,  Distinguished Faculty Teaching Fellow and 
-Assistant Professor of Mathematics at Lamar University,
+Associate Professor of Mathematics at Lamar University,
 established the Lamar Mathematical Puzzlehunt in 2015, which served as the
 pilot event for the MaPP's Challenge. Dr. Couch also sponsored the
-first MaPP Middle School Challenge at Lamar University.
+first MaPP Middle School Challenge at Lamar University. He coordinates
+MaPP's partner campuses, including onboarding our new partners each year.
 
 You can contact Dr. Couch by email at <pjcouch@lamar.edu> or
 visit his website at <http://pjcou.ch/>.
 
-## Other Volunteers
 
-MaPP relies on our enthusiastic network of campus organizers who coordinate
+# Regional/Campus Directors
+
+MaPP relies on our enthusiastic network of campus directors who coordinate
 our events across the country. To learn more about these people, visit our
 [Campuses](/campuses/) page.
