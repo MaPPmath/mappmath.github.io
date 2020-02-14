@@ -6,6 +6,12 @@ header-img: "img/bg/outdoors.jpg"
 permalink: /about/people/
 ---
 
+# Contact
+
+Any of our directors or other volunteers may be contacted by emailing
+<info@mappmath.org>.
+
+
 # Director of Games and Puzzles
 
 ![clontz](http://www.gravatar.com/avatar/2f9ecf8e56d48c8fd7adff7a8b5400bb?size=400)
@@ -26,8 +32,7 @@ courses.
 
 You can follow Dr. Clontz on Twitter
 [@StevenXClontz](http://twitter.com/StevenXClontz) or visit his website
-at [clontz.org](http://clontz.org). He may be emailed at
-<sclontz@southalabama.edu>.
+at [clontz.org](http://clontz.org).
 
 
 # Director of Mathematics
@@ -56,8 +61,6 @@ As an instructor of many pre-service teachers at
 his university, Dr. Carrigan utilizes mathematical puzzles in the classroom 
 as an introduction to studying theoretical mathematics.
 
-You can contact Dr. Carrigan by email at <carriganb1@southernct.edu>.
-
 
 # Director of Campuses
 
@@ -68,8 +71,7 @@ pilot event for the MaPP's Challenge. Dr. Couch also sponsored the
 first MaPP Middle School Challenge at Lamar University. He coordinates
 MaPP's partner campuses, including onboarding our new partners each year.
 
-You can contact Dr. Couch by email at <pjcouch@lamar.edu> or
-visit his website at <http://pjcou.ch/>.
+You can visit his website at <http://pjcou.ch/>.
 
 
 # Regional/Campus Directors
